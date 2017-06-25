@@ -2,8 +2,8 @@
   "title" : "Общая информация",
   "pages" : [
     {
-      file : "quickstart.md",
-      title : "Быстрый старт"
+      "file" : "quickstart.md",
+      "title" : "Быстрый старт"
     }
   ]
 }
