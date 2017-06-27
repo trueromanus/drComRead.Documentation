@@ -4,6 +4,10 @@
     {
       "file" : "quickstart.md",
       "title" : "Быстрый старт"
+    },
+    {
+      "file" : "features.md",
+      "title" : "Возможности"
     }
   ]
 }
