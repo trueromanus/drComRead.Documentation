@@ -8,6 +8,14 @@
     {
       "file" : "features.md",
       "title" : "Возможности"
+    },
+    {
+      "file" : "overview.md",
+      "title" : "Обзор"
+    },
+    {
+      "file" : "knownproblems.md",
+      "title" : "Известные проблемы"
     }
   ]
 }
