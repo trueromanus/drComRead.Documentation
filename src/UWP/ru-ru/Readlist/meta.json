@@ -1,0 +1,18 @@
+{
+  "title" : "Список чтения",
+  "name" : "readlist",
+  "pages" : [
+    {
+      "file" : "viewcomics.md",
+      "title" : "Просмотр комикса"
+    },
+    {
+      "file" : "settings.md",
+      "title" : "Настройки"
+    },
+    {
+      "file" : "deletecomics.md",
+      "title" : "Удаление комиксов"
+    }
+  ]
+}
