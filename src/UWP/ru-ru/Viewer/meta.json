@@ -1,0 +1,26 @@
+{
+  "title" : "Просмотр комиксов",
+  "name" : "viewer",
+  "pages" : [
+    {
+      "file" : "navigation.md",
+      "title" : "Навигация"
+    },
+    {
+      "file" : "settings.md",
+      "title" : "Настройки"
+    },
+    {
+      "file" : "bookmarks.md",
+      "title" : "Закладки"
+    },
+    {
+      "file" : "thumbnails.md",
+      "title" : "Список миниатюр страниц"
+    },
+    {
+      "file" : "transformations.md",
+      "title" : "Трансформации изображений"
+    }
+  ]
+}
