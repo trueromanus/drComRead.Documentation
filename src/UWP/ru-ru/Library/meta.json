@@ -3,6 +3,10 @@
   "name" : "library",
   "pages" : [
     {
+      "file" : "sections.md",
+      "title" : "Разделы библиотеки"
+    },    
+    {
       "file" : "addcomics.md",
       "title" : "Добавление комиксов"
     },
