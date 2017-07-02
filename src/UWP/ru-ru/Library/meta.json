@@ -1,0 +1,22 @@
+{
+  "title" : "Библиотека комиксов",
+  "name" : "library",
+  "pages" : [
+    {
+      "file" : "addcomics.md",
+      "title" : "Добавление комиксов"
+    },
+    {
+      "file" : "deletecomics.md",
+      "title" : "Удаление комиксов"
+    },
+    {
+      "file" : "filters.md",
+      "title" : "Фильтрация и поиск"
+    },
+    {
+      "file" : "settings.md",
+      "title" : "Настройки библиотеки"
+    }
+  ]
+}
