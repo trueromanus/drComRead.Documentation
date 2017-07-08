@@ -3,23 +3,23 @@
   "name" : "viewer",
   "pages" : [
     {
-      "file" : "navigation.md",
+      "file" : "navigation",
       "title" : "Навигация"
     },
     {
-      "file" : "settings.md",
+      "file" : "settings",
       "title" : "Настройки"
     },
     {
-      "file" : "bookmarks.md",
+      "file" : "bookmarks",
       "title" : "Закладки"
     },
     {
-      "file" : "thumbnails.md",
+      "file" : "thumbnails",
       "title" : "Список миниатюр страниц"
     },
     {
-      "file" : "transformations.md",
+      "file" : "transformations",
       "title" : "Трансформации изображений"
     }
   ]
