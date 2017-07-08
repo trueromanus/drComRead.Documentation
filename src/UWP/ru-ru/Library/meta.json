@@ -3,23 +3,23 @@
   "name" : "library",
   "pages" : [
     {
-      "file" : "sections.md",
+      "file" : "sections",
       "title" : "Разделы библиотеки"
     },    
     {
-      "file" : "addcomics.md",
+      "file" : "addcomics",
       "title" : "Добавление комиксов"
     },
     {
-      "file" : "deletecomics.md",
+      "file" : "deletecomics",
       "title" : "Удаление комиксов"
     },
     {
-      "file" : "filters.md",
+      "file" : "filters",
       "title" : "Фильтрация и поиск"
     },
     {
-      "file" : "settings.md",
+      "file" : "settings",
       "title" : "Настройки библиотеки"
     }
   ]
