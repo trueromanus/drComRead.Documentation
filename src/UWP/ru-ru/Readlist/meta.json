@@ -3,15 +3,15 @@
   "name" : "readlist",
   "pages" : [
     {
-      "file" : "viewcomics.md",
+      "file" : "viewcomics",
       "title" : "Просмотр комикса"
     },
     {
-      "file" : "settings.md",
+      "file" : "settings",
       "title" : "Настройки"
     },
     {
-      "file" : "deletecomics.md",
+      "file" : "deletecomics",
       "title" : "Удаление комиксов"
     }
   ]
