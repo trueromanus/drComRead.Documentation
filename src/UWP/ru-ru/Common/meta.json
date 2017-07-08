@@ -3,19 +3,19 @@
   "name" : "common",
   "pages" : [
     {
-      "file" : "quickstart.md",
+      "file" : "quickstart",
       "title" : "Быстрый старт"
     },
     {
-      "file" : "features.md",
+      "file" : "features",
       "title" : "Возможности"
     },
     {
-      "file" : "overview.md",
+      "file" : "overview",
       "title" : "Обзор"
     },
     {
-      "file" : "knownproblems.md",
+      "file" : "knownproblems",
       "title" : "Известные проблемы"
     }
   ]
