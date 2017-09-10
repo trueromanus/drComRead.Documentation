@@ -25,7 +25,7 @@ objects - Array of custom object (for custom specified resource type)
 
 ```json
 {
-  "id",
+  "id": "",
   "content":"<image data in base64 encoding>",
   "metadata":{}
 }
@@ -39,7 +39,7 @@ metadata - optional field for storing user data
 
 ```json
 {
-  "id",
+  "id": "",
   "path":"<geometry as SVG Path>",
   "metadata":{}
 }
@@ -52,7 +52,7 @@ metadata - optional field for storing user data
 
 ```json
 {
-  "id",
+  "id": "",
   "text":"<message for UI>",
   "metadata":{}
 }
