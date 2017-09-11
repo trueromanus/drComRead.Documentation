@@ -3,3 +3,5 @@
 ################################################################################
 
 /src/Website/DocumentationGenerator/obj
+/.vs
+/src/Website/DocumentationGenerator/.vs/DocumentationGenerator/v15
