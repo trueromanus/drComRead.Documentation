@@ -1,0 +1,44 @@
+{
+  "locale":"ru-Ru",
+  "texts":[
+    {
+      "group": "SplitView",
+      "texts": [
+        {
+          "id": "Program version",
+          "text":"версия {0}",
+        },
+        {
+          "id": "Close panel",
+          "text":"Закрыть панель",
+        },
+        {
+          "id": "All comics",
+          "text":"Все комиксы",
+        },
+        {
+          "id": "Reading",
+          "text":"Читаемые",
+        },
+        {
+          "id": "New",
+          "text":"Новые",
+        },
+        {
+          "id": "Not readed",
+          "text":"Не прочитанные",
+        },
+        {
+          "id": "Readed",
+          "text":"Прочитанные",
+        },
+        {
+          "id": "Readlist",
+          "text":"Список чтения",
+        }
+      ]
+    }
+  ],
+  "images":[],
+  "vectors":[]
+}
