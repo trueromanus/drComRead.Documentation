@@ -59,7 +59,7 @@ metadata - optional field for storing user data
       "text":"<message for UI>",
       "metadata":{}
     },
-    ...
+    {}
   ],
   "metadata":{}
 }
