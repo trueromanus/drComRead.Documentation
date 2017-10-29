@@ -52,14 +52,20 @@ metadata - optional field for storing user data
 
 ```json
 {
-  "id": "",
-  "text":"<message for UI>",
+  "group": "",
+  "texts": [
+    {
+      "id": "",
+      "text":"<message for UI>",
+      "metadata":{}
+    },
+    ...
+  ],
   "metadata":{}
 }
 ```
-
-id - any value but must be unique in bounds all array  
-text - Text which be displayed in application (supported Markdown formatting and special uri described below)  
+group - name of group
+texts - array where **id** any value but must be unique in bounds all array and **text** text which be displayed in application (supported Markdown formatting and special uri described below)  
 metadata - optional field for storing user data  
 
 Special Uri
