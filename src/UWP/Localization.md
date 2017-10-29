@@ -64,7 +64,7 @@ metadata - optional field for storing user data
   "metadata":{}
 }
 ```
-group - name of group
+group - name of group  
 texts - array where **id** any value but must be unique in bounds all array and **text** text which be displayed in application (supported Markdown formatting and special uri described below)  
 metadata - optional field for storing user data  
 
