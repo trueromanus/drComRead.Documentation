@@ -2,6 +2,27 @@
   "locale":"ru-Ru",
   "texts":[
     {
+      "group": "Common",
+      "texts": [
+        {
+          "id": "Reset",
+          "text":"Сброс",
+        },
+        {
+          "id": "Yes",
+          "text":"Да",
+        },
+        {
+          "id": "No",
+          "text":"Нет",
+        },
+        {
+          "id": "Readlist",
+          "text":"Список чтения",
+        }        
+      ]
+    },
+    {
       "group": "SplitView",
       "texts": [
         {
@@ -37,7 +58,144 @@
           "text":"Список чтения",
         }
       ]
-    }
+    },
+    {
+      "group": "Library",
+      "texts": [
+        {
+          "id": "AddButton",
+          "text":"Добавить комиксы в библиотеку",
+        },
+        {
+          "id": "DeleteButton",
+          "text":"Удалить комиксы из библиотеки",
+        },
+        {
+          "id": "DeleteSelectedComics",
+          "text":"Удалить выбранные комиксы",
+        },
+        {
+          "id": "AddComicsToReadlist",
+          "text":"Добавить выбранные комиксы в текущий список чтения",
+        },
+        {
+          "id": "DateAppendedButton",
+          "text":"Выбрать фильтр для даты добавления в библиотеку",
+        },
+        {
+          "id": "DateLastReadedButton",
+          "text":"Выбрать фильтр для даты последнего просмотра",
+        },
+        {
+          "id": "DateLastReaded",
+          "text":"Дата просмотра",
+        },
+        {
+          "id": "DateAppended",
+          "text":"Дата добавления",
+        },
+        {
+          "id": "FilterButton",
+          "text":"Выбрать фильтры для списка",
+        },
+        {
+          "id": "Filter by name",
+          "text":"По имени комикса",
+        },
+        {
+          "id": "Filter by readed mark",
+          "text":"По признаку прочтения",
+        },
+        {
+          "id": "Readed",
+          "text":"Прочитанные",
+        },
+        {
+          "id": "Unreaded",
+          "text":"Не прочитанные",
+        },
+        {
+          "id": "SortButton",
+          "text":"Выбрать как будет отсортирован список",
+        },
+        {
+          "id": "Sort by",
+          "text":"Сортировать по",
+        },
+        {
+          "id": "Descending",
+          "text":"Нисходящая",
+        },
+        {
+          "id": "Sort name attribute",
+          "text":"Имя комикса",
+        },
+        {
+          "id": "Sort date appended",
+          "text":"Дата добавления в библиотеку",
+        },
+        {
+          "id": "Sort date last readed",
+          "text":"Дата последнего просмотра",
+        },
+        {
+          "id": "Sort read mark",
+          "text":"Признаку прочтения",
+        },
+        {
+          "id": "Setting button",
+          "text":"Настройки библиотеки",
+        },
+        {
+          "id": "Grid select mode",
+          "text":"Режим выбора",
+        },
+        {
+          "id": "Grid single mode",
+          "text":"Одиночный",
+        },
+        {
+          "id": "Grid multiple mode",
+          "text":"Множественный",
+        },
+        {
+          "id": "Readlist add mode",
+          "text":"Добавлять в список чтения",
+        },
+        {
+          "id": "Readlist add mode end list",
+          "text":"В конец списка",
+        },
+        {
+          "id": "Readlist add mode after current",
+          "text":"После текущего",
+        },
+        {
+          "id": "Readlist add mode begin list",
+          "text":"В начало списка",
+        },
+        {
+          "id": "Readlist add mode before current",
+          "text":"Перед текущим",
+        },
+        {
+          "id": "Grid item covers",
+          "text":"Обложек",
+        },
+        {
+          "id": "Grid item pages",
+          "text":"Страниц",
+        },
+        {
+          "id": "Delete confirmation dialog header",
+          "text":"Удаление выбранных комиксов",
+        },
+        {
+          "id": "Delete confirmation dialog header",
+          "text":"Удалить выбранные комиксы безвозвратно из библиотеки?",
+        }
+      ]
+    }    
   ],
   "images":[],
   "vectors":[]
