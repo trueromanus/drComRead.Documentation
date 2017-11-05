@@ -7,7 +7,7 @@ File content basic on JSON structure.
 [
   {
     "locale":"ru-Ru",
-    "texts":[],
+    "textGroups":[],
     "images":[],
     "vectors":[],
     "objects":[]
@@ -52,7 +52,7 @@ metadata - optional field for storing user data
 
 ```json
 {
-  "group": "",
+  "group": "<name of group>",
   "texts": [
     {
       "id": "",
