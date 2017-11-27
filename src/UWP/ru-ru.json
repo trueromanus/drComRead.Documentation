@@ -26,15 +26,15 @@
       "group": "SplitView",
       "texts": [
         {
-          "id": "Program version",
+          "id": "ProgramVersion",
           "text":"версия {0}",
         },
         {
-          "id": "Close panel",
+          "id": "ClosePanel",
           "text":"Закрыть панель",
         },
         {
-          "id": "All comics",
+          "id": "AllComics",
           "text":"Все комиксы",
         },
         {
@@ -46,7 +46,7 @@
           "text":"Новые",
         },
         {
-          "id": "Not readed",
+          "id": "NotReaded",
           "text":"Не прочитанные",
         },
         {
@@ -99,11 +99,11 @@
           "text":"Выбрать фильтры для списка",
         },
         {
-          "id": "Filter by name",
+          "id": "FilterByName",
           "text":"По имени комикса",
         },
         {
-          "id": "Filter by readed mark",
+          "id": "FilterByReadedMark",
           "text":"По признаку прочтения",
         },
         {
@@ -127,71 +127,71 @@
           "text":"Нисходящая",
         },
         {
-          "id": "Sort name attribute",
+          "id": "SortNameAttribute",
           "text":"Имя комикса",
         },
         {
-          "id": "Sort date appended",
+          "id": "SortDateAppended",
           "text":"Дата добавления в библиотеку",
         },
         {
-          "id": "Sort date last readed",
+          "id": "SortDateLastReaded",
           "text":"Дата последнего просмотра",
         },
         {
-          "id": "Sort read mark",
+          "id": "SortReadMark",
           "text":"Признаку прочтения",
         },
         {
-          "id": "Setting button",
+          "id": "SettingButton",
           "text":"Настройки библиотеки",
         },
         {
-          "id": "Grid select mode",
+          "id": "GridSelectMode",
           "text":"Режим выбора",
         },
         {
-          "id": "Grid single mode",
+          "id": "GridSingleMode",
           "text":"Одиночный",
         },
         {
-          "id": "Grid multiple mode",
+          "id": "GridMultipleMode",
           "text":"Множественный",
         },
         {
-          "id": "Readlist add mode",
+          "id": "ReadlistAddMode",
           "text":"Добавлять в список чтения",
         },
         {
-          "id": "Readlist add mode end list",
+          "id": "ReadlistAddModeEndList",
           "text":"В конец списка",
         },
         {
-          "id": "Readlist add mode after current",
+          "id": "ReadlistAddModeAfterCurrent",
           "text":"После текущего",
         },
         {
-          "id": "Readlist add mode begin list",
+          "id": "ReadlistAddModeBeginList",
           "text":"В начало списка",
         },
         {
-          "id": "Readlist add mode before current",
+          "id": "ReadlistAddModeBeforeCurrent",
           "text":"Перед текущим",
         },
         {
-          "id": "Grid item covers",
+          "id": "GridItemCovers",
           "text":"Обложек",
         },
         {
-          "id": "Grid item pages",
+          "id": "GridItemPages",
           "text":"Страниц",
         },
         {
-          "id": "Delete confirmation dialog header",
+          "id": "DeleteConfirmationDialogHeader",
           "text":"Удаление выбранных комиксов",
         },
         {
-          "id": "Delete confirmation dialog header",
+          "id": "DeleteConfirmationDialogHeader",
           "text":"Удалить выбранные комиксы безвозвратно из библиотеки?",
         }
       ]
