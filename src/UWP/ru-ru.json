@@ -119,7 +119,7 @@
           "text":"Выбрать как будет отсортирован список",
         },
         {
-          "id": "Sort by",
+          "id": "SortBy",
           "text":"Сортировать по",
         },
         {
@@ -191,7 +191,7 @@
           "text":"Удаление выбранных комиксов",
         },
         {
-          "id": "DeleteConfirmationDialogHeader",
+          "id": "DeleteConfirmationDialogMessage",
           "text":"Удалить выбранные комиксы безвозвратно из библиотеки?",
         }
       ]
