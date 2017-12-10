@@ -207,7 +207,7 @@
           "text":"Выбрано несколько дат",
         },
         {
-          "id": "AddComicsToReadlist",
+          "id": "SuccessAddedComicsToReadlist",
           "text": "Успешно добавлены {0} комиксов в {1}"
         },
         {
