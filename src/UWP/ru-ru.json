@@ -255,7 +255,104 @@
           "text": "Для того чтобы добавить комиксы нажмите на кнопку с плюсом, она распологается слева на панели инструментов"
         }
       ]
-    }    
+    },
+    {
+      "group": "Readlist",
+      "texts": [
+        {
+          "id": "StartReading",
+          "text": "Начать просмотр комиксов"
+        },
+        {
+          "id": "DeleteComics",
+          "text": "Удалить комиксы из списка чтения"
+        },
+        {
+          "id": "DeleteSelectedComics",
+          "text": "Удалить выделенные"
+        },
+        {
+          "id": "DeleteAllReadedComics",
+          "text": "Удалить все прочитанные"
+        },
+        {
+          "id": "DeleteAllNotReadedComics",
+          "text": "Удалить все непрочитанные"
+        },        
+        {
+          "id": "ClearReadlist",
+          "text": "Очистить список чтения"
+        },        
+        {
+          "id": "Filters",
+          "text": "Выбрать фильтры для списка чтения"
+        },
+        {
+          "id": "ShowReadedComics",
+          "text": "Показывать прочитанные комиксы?"
+        },
+        {
+          "id": "IsShowReadedComics",
+          "text": "Показывать"
+        },
+        {
+          "id": "NotShowReadedComics",
+          "text": "Скрывать"
+        },
+        {
+          "id": "ShowReadedComicsTooltip",
+          "text": "Будут ли показыватся прочитанные комиксы в списке чтения"
+        },
+        {
+          "id": "SelectedReadlistSettings",
+          "text": "Параметры списка чтения"
+        },
+        {
+          "id": "DeleteComicsAfterRead",
+          "text": "Удалять комиксы после прочтения?"
+        },
+        {
+          "id": "IsDeleteComicsAfterRead",
+          "text": "Удалять"
+        },
+        {
+          "id": "KeepComicsAfterRead",
+          "text": "Оставлять"
+        },
+        {
+          "id": "DeleteComicsAfterReadTooltip",
+          "text": "Настройка влияет на то после прочтения будут ли удалены комиксы из этого списка чтения автоматически"
+        },
+        {
+          "id": "ReadlistSettings",
+          "text": "Настройки"
+        },
+        {
+          "id": "SelectMode",
+          "text": "Режим выбора в списке"
+        },
+        {
+          "id": "SelectMode",
+          "text": "Режим выбора в списке"
+        },
+        {
+          "id": "SelectModeMultiple",
+          "text": "Множественный"
+        },
+        {
+          "id": "SelectModeSingle",
+          "text": "Одиночный"
+        },       
+        {
+          "id": "SelectModeTooltip",
+          "text": "Режим выбора комиксов в списке чтения"
+        },       
+        {
+          "id": "SelectReadlist",
+          "text": "Выбрать список чтения"
+        }
+      ]
+    }
   ],
   "images":[],
   "vectors":[]
