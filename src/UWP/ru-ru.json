@@ -350,6 +350,50 @@
         {
           "id": "SelectReadlist",
           "text": "Выбрать список чтения"
+        },
+        {
+          "id": "EmptyListMessage",
+          "text": "Пока в этом списке чтения нет комиксов"
+        },
+        {
+          "id": "EmptyListDescription",
+          "text": "Для добавления комиксов Вы можете вернутся в библиотеку и добавить в этот список чтения комиксы"
+        },
+        {
+          "id": "CountMessage",
+          "text": "В списке {0} комиксов из которых {1} прочитано и {2} непрочитано."
+        },
+        {
+          "id": "DeleteAllComics",
+          "text": "Удаление всех комиксов"
+        },
+        {
+          "id": "DeleteAllComicsDescription",
+          "text": "Вы уверены что хотите удалить все комиксы из списка чтения?"
+        },
+        {
+          "id": "DeleteUnreadedComics",
+          "text": "Удаление непрочитанных комиксов"
+        },
+        {
+          "id": "DeleteUnreadedComicsDescription",
+          "text": "Вы уверены что хотите удалить все непрочитанные комиксы из списка чтения?"
+        },
+        {
+          "id": "DeleteReadedComics",
+          "text": "Удаление прочитанных комиксов"
+        },
+        {
+          "id": "DeleteReadedComicsDescription",
+          "text": "Вы уверены что хотите удалить все прочитанные комиксы из списка чтения?"
+        },
+        {
+          "id": "DeleteSelectedComics",
+          "text": "Удаление выбранных комиксов"
+        },
+        {
+          "id": "DeleteSelectedComicsDescription",
+          "text": "Вы уверены что хотите удалить выбранные комиксы из списка чтения?"
         }
       ]
     }
