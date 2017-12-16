@@ -392,6 +392,155 @@
           "text": "Вы уверены что хотите удалить выбранные комиксы из списка чтения?"
         }
       ]
+    },
+    {
+      "group": "Import",
+      "texts": [
+        {
+          "id": "AddComicsFromFiles",
+          "text": "Добавить комиксы из файлов"
+        },
+        {
+          "id": "CreateComicsFromFolder",
+          "text": "Создать комикс из папки с изображениями"
+        },
+        {
+          "id": "HelpMessageLineOne",
+          "text": "Чтобы добавить архив(ы) просто"
+        },
+        {
+          "id": "HelpMessageLineTwo",
+          "text": "перетащите в эту зону файл или папку"
+        },
+        {
+          "id": "HowToDownloadSelectedFolders",
+          "text": "Как загрузить выбранные папки?"
+        },
+        {
+          "id": "DownloadAsArchives",
+          "text": "Добавление в библиотеку всех архивов в указанных папках"
+        },
+        {
+          "id": "FolderArchives",
+          "text": "Папка с архивами"
+        },
+        {
+          "id": "DownloadAsSingleArchive",
+          "text": "Добавление в библиотеку одного архива содержащего все изображения из указанных папок"
+        },        
+        {
+          "id": "SelectNameTooltip",
+          "text": "Укажите отображаемое имя для архива созданного из папки с изображениями"
+        },        
+        {
+          "id": "SelectName",
+          "text": "Укажите имя комикса"
+        },        
+        {
+          "id": "Select",
+          "text": "Выбрать"
+        },        
+        {
+          "id": "FolderContainsImages",
+          "text": "Папка с изображениями"
+        },
+        {
+          "id": "PleaseWait",
+          "text": "Пожалуйста подождите"
+        },        
+        {
+          "id": "NavigateToComics",
+          "text": "Перейти к комиксам"
+        },        
+        {
+          "id": "FoundImages",
+          "text": "Найдено изображений {0}."
+        },
+        {
+          "id": "FoundArchives",
+          "text": "Обработано папок {0}. Добавлено архивов {1}."
+        },
+        {
+          "id": "DefaultAddComicsName",
+          "text": "Добавить"
+        },
+        {
+          "id": "SingleArchive",
+          "text": "Файл архива"
+        },
+        {
+          "id": "ArchivesWithinFolder",
+          "text": "Папка с архивами"
+        },
+        {
+          "id": "ImagesWithinFolder",
+          "text": "Папка с изображениями"
+        },
+        {
+          "id": "ImagesWithinFolder",
+          "text": "Папка с изображениями"
+        },
+        {
+          "id": "ProcessingSelectedFiles",
+          "text": "Обработка выбранных файлов..."
+        },
+        {
+          "id": "ProcessingSelectedFolders",
+          "text": "Обработка выбранных папок..."
+        },
+        {
+          "id": "SuccessImported",
+          "text": " успешно в библиотеку"
+        },        
+        {
+          "id": "ImportedWithErrors",
+          "text": " и {0} не удалось добавить"
+        },        
+        {
+          "id": "ArhivesNotFound",
+          "text": "Не найдено архивов"
+        },        
+        {
+          "id": "ArhivesNotFoundDescription",
+          "text": "В указанных файлах и/или папках нет поддерживаемых программой форматов архивов."
+        },        
+        {
+          "id": "ToastDescription",
+          "text": "Вы можете найти их в библиотеке во вкладках Новые или Все комиксы."
+        },        
+        {
+          "id": "AddedHeader",
+          "text": "Добавлено {0} архивов"
+        },        
+        {
+          "id": "ImageFolderAdded",
+          "text": "Архив {0} успешно добавлен"
+        },        
+        {
+          "id": "ImageFolderError",
+          "text": "Не удалось создать архив из папки с изображениями"
+        },        
+        {
+          "id": "ImagesNotFound",
+          "text": "Не найдено изображений"
+        },        
+        {
+          "id": "ImagesNotFoundDescription",
+          "text": "В указанных папках нет поддерживаемых программой файлов изображений."
+        },        
+        {
+          "id": "ImagesFolderAddedToast",
+          "text": "Вы можете найти его в библиотеке во вкладках Новые или Все комиксы."
+        },        
+        {
+          "id": "AddFiles",
+          "text": "Добавить файлы"
+        },        
+        {
+          "id": "SelectFolder",
+          "text": "Выбрать папку"
+        }        
+      ]
     }
   ],
   "images":[],
