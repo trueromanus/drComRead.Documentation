@@ -477,10 +477,6 @@
           "text": "Папка с изображениями"
         },
         {
-          "id": "ImagesWithinFolder",
-          "text": "Папка с изображениями"
-        },
-        {
           "id": "ProcessingSelectedFiles",
           "text": "Обработка выбранных файлов..."
         },
