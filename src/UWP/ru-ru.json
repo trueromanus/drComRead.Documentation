@@ -332,10 +332,6 @@
           "text": "Режим выбора в списке"
         },
         {
-          "id": "SelectMode",
-          "text": "Режим выбора в списке"
-        },
-        {
           "id": "SelectModeMultiple",
           "text": "Множественный"
         },
@@ -388,7 +384,7 @@
           "text": "Вы уверены что хотите удалить все прочитанные комиксы из списка чтения?"
         },
         {
-          "id": "DeleteSelectedComics",
+          "id": "DeleteSelectedComicsMessage",
           "text": "Удаление выбранных комиксов"
         },
         {
