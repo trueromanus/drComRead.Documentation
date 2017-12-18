@@ -541,6 +541,95 @@
           "text": "Что Вы хотите добавить?"
         }
       ]
+    },
+    {
+      "group": "ViewerPanel",
+      "texts": [
+        {
+          "id": "Transformation",
+          "text": "Преобразования"
+        },        
+        {
+          "id": "Navigation",
+          "text": "Навигация"
+        },        
+        {
+          "id": "Bookmark",
+          "text": "Поставить закладку"
+        },        
+        {
+          "id": "Thumbnails",
+          "text": "Просмотреть все страницы комикса в виде миниатюр"
+        },        
+        {
+          "id": "Settings",
+          "text": "Настройки"
+        },      
+        {
+          "id": "NavigationPanels",
+          "text": "Навигационные панели"
+        },
+        {
+          "id": "NavigationPanelsLeft",
+          "text": "Показывать левую панель"
+        },
+        {
+          "id": "NavigationPanelsRight",
+          "text": "Показывать правую панель"
+        },
+        {
+          "id": "EdgeIndicator",
+          "text": "Индикатор граней"
+        },
+        {
+          "id": "EdgeIndicatorPages",
+          "text": "Скрывать навигацию по страницам"
+        },
+        {
+          "id": "EdgeIndicatorStartEnd",
+          "text": "Скрывать навигацию по концам"
+        },
+        {
+          "id": "EdgeIndicatorAutoButtonVisible",
+          "text": "Скрывать неактуальные кнопки"
+        },
+        {
+          "id": "Bookmarks",
+          "text": "Закладки"
+        },       
+        {
+          "id": "BookmarksNext",
+          "text": "Следующая закладка"
+        },       
+        {
+          "id": "BookmarksPrev",
+          "text": "Предыдущая закладка"
+        },
+        {
+          "id": "NextPage",
+          "text": "Следующая страница"
+        },        
+        {
+          "id": "PreviousPage",
+          "text": "Предыдущая страница"
+        },        
+        {
+          "id": "FirstPage",
+          "text": "Первая страница"
+        },        
+        {
+          "id": "EndPage",
+          "text": "Последняя страница"
+        },        
+        {
+          "id": "PreviousComics",
+          "text": "Предыдущий комикс"
+        },        
+        {
+          "id": "NextComics",
+          "text": "Следующий комикс"
+        }
+      ]
     }
   ],
   "images":[],
