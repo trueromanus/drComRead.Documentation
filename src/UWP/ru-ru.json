@@ -633,7 +633,7 @@
     },
     {
       "group": "ViewerTransformation",
-      texts: [
+      "texts": [
         {
           "id": "VerticalMirror",
           "text": "Отражение по вертикали"
@@ -679,7 +679,56 @@
           "text": "Сбросить"
         }                
       ]
-    }
+    },
+    {
+      "group": "ViewerBookmark",
+      "texts": [
+        {
+          "id": "SelectColor",
+          "text": "Цвет закладки"
+        },                
+        {
+          "id": "Description",
+          "text": "Примечание"
+        },                
+        {
+          "id": "Save",
+          "text": "Сохранить"
+        },                
+        {
+          "id": "Delete",
+          "text": "Удалить"
+        },
+        {
+          "id": "Transparent",
+          "text": "Без цвета"
+        },        
+        {
+          "id": "Red",
+          "text": "Красный"
+        },        
+        {
+          "id": "Green",
+          "text": "Зеленый"
+        },        
+        {
+          "id": "Maroon",
+          "text": "Каштановый"
+        },        
+        {
+          "id": "Gold",
+          "text": "Золотой"
+        },        
+        {
+          "id": "Violet",
+          "text": "Фиолетовый"
+        },        
+        {
+          "id": "Orange",
+          "text": "Оранжевый"
+        }
+      ]
+    }    
   ],
   "images":[],
   "vectors":[]
