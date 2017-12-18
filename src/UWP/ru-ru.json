@@ -630,6 +630,55 @@
           "text": "Следующий комикс"
         }
       ]
+    },
+    {
+      "group": "ViewerTransformation",
+      texts: [
+        {
+          "id": "VerticalMirror",
+          "text": "Отражение по вертикали"
+        },                
+        {
+          "id": "VerticalMirrorTooltip",
+          "text": "Отразить изображение по вертикали"
+        },                
+        {
+          "id": "HorizontalMirror",
+          "text": "Отражение по горизонтали"
+        },                
+        {
+          "id": "HorizontalMirrorTooltip",
+          "text": "Отразить изображение по горизонтали"
+        },                
+        {
+          "id": "Rotate",
+          "text": "Поворот"
+        },                
+        {
+          "id": "NotRotate",
+          "text": "Не повернут"
+        },                
+        {
+          "id": "Rotate90",
+          "text": "Повернут на 90°"
+        },                
+        {
+          "id": "Rotate180",
+          "text": "Повернут на 180°"
+        },                
+        {
+          "id": "Rotate270",
+          "text": "Повернут на 270°"
+        },                
+        {
+          "id": "Save",
+          "text": "Сохранить"
+        },                
+        {
+          "id": "Reset",
+          "text": "Сбросить"
+        }                
+      ]
     }
   ],
   "images":[],
