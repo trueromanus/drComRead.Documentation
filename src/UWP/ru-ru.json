@@ -17,6 +17,22 @@
           "text":"Нет",
         },
         {
+          "id": "On",
+          "text":"Включен",
+        },
+        {
+          "id": "Off",
+          "text":"Выключен",
+        },
+        {
+          "id": "Visible",
+          "text":"Показывать",
+        },
+        {
+          "id": "NotVisible",
+          "text":"Не показывать",
+        },        
+        {
           "id": "Readlist",
           "text":"Список чтения",
         }        
@@ -726,6 +742,136 @@
         {
           "id": "Orange",
           "text": "Оранжевый"
+        }
+      ]
+    },
+    {
+      "group": "ViewerThumbnails",
+      "texts": [
+        {
+          "id": "ReturnToViewer",
+          "text": "Вернуться к просмотру комикса без изменений"
+        },                
+        {
+          "id": "Settings",
+          "text": "Настройки показа миниатюр"
+        },                
+        {
+          "id": "ShowPageNumber",
+          "text": "Показывать номера страниц"
+        },                
+        {
+          "id": "ShowPageNumberTooltip",
+          "text": "Показывать ли номера страниц поверх изображения страниц?"
+        }
+      ]
+    },
+    {
+      "group": "ViewerSettings",
+      "texts": [
+        {
+          "id": "TwoPageMode",
+          "text": "Двухстраничный режим"
+        },
+        {
+          "id": "TwoPageModeTooltip",
+          "text": "Страницы будут отображаться по две если это возможно"
+        },
+        {
+          "id": "MainCover",
+          "text": "Основная обложка"
+        },
+        {
+          "id": "MainCoverTooltip",
+          "text": "Показывать ли обложку которая отображается в библиотеке и списке чтения вместе с названием?"
+        },        
+        {
+          "id": "AdditionalCover",
+          "text": "Дополнительные обложки"
+        },
+        {
+          "id": "AdditionalCoverTooltip",
+          "text": "Показывать ли дополнительные обложки комикса?"
+        },
+        {
+          "id": "ScaleMode",
+          "text": "Режимы масштабирования"
+        },        
+        {
+          "id": "LandscapeTooltip",
+          "text": "Масштабирование изображения для окна у которого ширина больше чем высота"
+        },        
+        {
+          "id": "PortraitTooltip",
+          "text": "Масштабирование изображения для окна у которого ширина меньше чем высота"
+        },        
+        {
+          "id": "SquareTooltip",
+          "text": "Масштабирование изображения для окна у которого ширина и высота равны"
+        },        
+        {
+          "id": "LiveTile",
+          "text": "Живая плитка"
+        },
+        {
+          "id": "LiveTileTooltip",
+          "text": "Закрепить живую плитку с информацией о странице последнего просмотренного комикса"
+        },
+        {
+          "id": "LiveTileButton",
+          "text": "Закрепить"
+        },
+        {
+          "id": "LiveTileHeader",
+          "text": "Комикс"
+        }
+        {
+          "id": "LiveTilePage",
+          "text": "Страница {0} из {1}"
+        },
+        {
+          "id": "ScaleOriginal",
+          "text": "Оригинальный размер"
+        },        
+        {
+          "id": "ScaleFitToWidth",
+          "text": "Выровнять по ширине"
+        },        
+        {
+          "id": "ScaleFitToHeight",
+          "text": "Выровнять по высоте"
+        },        
+        {
+          "id": "ScaleSystemProfile",
+          "text": "Системный профиль"
+        },    
+        {
+          "id": "UnsavedChangesTitle",
+          "text": "У вас есть несохраненные изменения"
+        },    
+        {
+          "id": "UnsavedChangesBookmark",
+          "text": "закладку"
+        },    
+        {
+          "id": "UnsavedChangesTransformation",
+          "text": "трансформации"
+        },
+        {
+          "id": "UnsavedChangesUnionChanges",
+          "text": "{0} и {1}"
+        }
+        {
+          "id": "UnsavedChangesTransformation",
+          "text": "Вы изменили {0} на текущей странице, хотите сохранить изменения?"
+        },    
+        {
+          "id": "UnsavedChangesSave",
+          "text": "Сохранить"
+        },    
+        {
+          "id": "UnsavedChangesDontSave",
+          "text": "Не сохранять"
         }
       ]
     }    
