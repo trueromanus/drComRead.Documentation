@@ -866,7 +866,7 @@
           "text": "{0} и {1}"
         },
         {
-          "id": "UnsavedChangesTransformation",
+          "id": "UnsavedChangesFullMessage",
           "text": "Вы изменили {0} на текущей странице, хотите сохранить изменения?"
         },    
         {
