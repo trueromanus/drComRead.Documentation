@@ -1,2 +1,3 @@
 # drComRead.Documentation
-Documentation for program drComRead
+Documentation and localization for drComRead and for http://drcomread.com/.
+
