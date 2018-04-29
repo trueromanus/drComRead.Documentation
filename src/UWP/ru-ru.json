@@ -269,6 +269,18 @@
         {
           "id": "UnReadedIsEmptyDescription",
           "text": "Для того чтобы добавить комиксы нажмите на кнопку с плюсом, она распологается слева на панели инструментов"
+        },
+        {
+          "id": "EmptyLibraryHeader",
+          "text": "В Вашей библиотеке пока нет комиксов"
+        },
+        {
+          "id": "EmptyLibraryStartMessageLineOne",
+          "text": "Для того чтобы добавить комикс в библиотеку"
+        },
+        {
+          "id": "EmptyLibraryStartMessageLineTwo",
+          "text": "нажмите на кнопку {0} на панели"
         }
       ]
     },
