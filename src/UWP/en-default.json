@@ -1,0 +1,901 @@
+{
+  "locale":"en",
+  "textGroups":[
+    {
+      "group": "Common",
+      "texts": [
+        {
+          "id": "Reset",
+          "text":"Reset",
+        },
+        {
+          "id": "Yes",
+          "text":"Yes",
+        },
+        {
+          "id": "No",
+          "text":"No",
+        },
+        {
+          "id": "On",
+          "text":"On",
+        },
+        {
+          "id": "Off",
+          "text":"Off",
+        },
+        {
+          "id": "Visible",
+          "text":"Show",
+        },
+        {
+          "id": "NotVisible",
+          "text":"Hide",
+        },        
+        {
+          "id": "Readlist",
+          "text":"Read's list",
+        }        
+      ]
+    },
+    {
+      "group": "SplitView",
+      "texts": [
+        {
+          "id": "ProgramVersion",
+          "text":"version {0}",
+        },
+        {
+          "id": "ClosePanel",
+          "text":"Close panel",
+        },
+        {
+          "id": "AllComics",
+          "text":"All comics",
+        },
+        {
+          "id": "Reading",
+          "text":"I'm reading now",
+        },
+        {
+          "id": "New",
+          "text":"New",
+        },
+        {
+          "id": "NotReaded",
+          "text":"Unread comics",
+        },
+        {
+          "id": "Readed",
+          "text":"Already read the comics",
+        },
+        {
+          "id": "Readlist",
+          "text":"Read's list",
+        }
+      ]
+    },
+    {
+      "group": "Library",
+      "texts": [
+        {
+          "id": "AddButton",
+          "text":"Add comics to the library",
+        },
+        {
+          "id": "DeleteButton",
+          "text":"Delete comics from the library",
+        },
+        {
+          "id": "DeleteSelectedComics",
+          "text":"Delete selected comics from the library",
+        },
+        {
+          "id": "AddComicsToReadlist",
+          "text":"Add selected comics to the current reading list",
+        },
+        {
+          "id": "DateAppendedButton",
+          "text":"Select a filter for the date of adding to the library",
+        },
+        {
+          "id": "DateLastReadedButton",
+          "text":"Select a filter for the date you last viewed",
+        },
+        {
+          "id": "DateLastReaded",
+          "text":"Last seen date",
+        },
+        {
+          "id": "DateAppended",
+          "text":"Date of import to the library",
+        },
+        {
+          "id": "FilterButton",
+          "text":"Select a filter for the list",
+        },
+        {
+          "id": "FilterByName",
+          "text":"By the name of the comics",
+        },
+        {
+          "id": "FilterByReadedMark",
+          "text":"Based on reading",
+        },
+        {
+          "id": "Readed",
+          "text":"Readed",
+        },
+        {
+          "id": "Unreaded",
+          "text":"Unread",
+        },
+        {
+          "id": "SortButton",
+          "text":"Select a sorting comic",
+        },
+        {
+          "id": "SortBy",
+          "text":"Sort by",
+        },
+        {
+          "id": "Descending",
+          "text":"Descending",
+        },
+        {
+          "id": "SortNameAttribute",
+          "text":"Title",
+        },
+        {
+          "id": "SortDateAppended",
+          "text":"Date of import to the library",
+        },
+        {
+          "id": "SortDateLastReaded",
+          "text":"Last seen date",
+        },
+        {
+          "id": "SortReadMark",
+          "text":"Based on reading",
+        },
+        {
+          "id": "SettingButton",
+          "text":"Library settings",
+        },
+        {
+          "id": "GridSelectMode",
+          "text":"List selection mode",
+        },
+        {
+          "id": "GridSingleMode",
+          "text":"Single",
+        },
+        {
+          "id": "GridMultipleMode",
+          "text":"Multiple",
+        },
+        {
+          "id": "ReadlistAddMode",
+          "text":"Adding to the reading list",
+        },
+        {
+          "id": "ReadlistAddModeEndList",
+          "text":"At the end",
+        },
+        {
+          "id": "ReadlistAddModeAfterCurrent",
+          "text":"After the selected comic book",
+        },
+        {
+          "id": "ReadlistAddModeBeginList",
+          "text":"By the begin",
+        },
+        {
+          "id": "ReadlistAddModeBeforeCurrent",
+          "text":"Before the selected comic book",
+        },
+        {
+          "id": "GridItemCovers",
+          "text":"Covers",
+        },
+        {
+          "id": "GridItemPages",
+          "text":"Pages",
+        },
+        {
+          "id": "DeleteConfirmationDialogHeader",
+          "text":"Delete selected comics",
+        },
+        {
+          "id": "DeleteConfirmationDialogMessage",
+          "text":"Delete the selected comics from the library? This operation is not reversible.",
+        },
+        {
+          "id": "SelectConcreteDate",
+          "text":"Selected concrete date",
+        },
+        {
+          "id": "SelectDateRange",
+          "text":"Selected date range",
+        },
+        {
+          "id": "SelectFewDates",
+          "text":"Selected few dates",
+        },
+        {
+          "id": "SuccessAddedComicsToReadlist",
+          "text": "Successful added {0} comics in {1}"
+        },
+        {
+          "id": "OpenReadList",
+          "text": "Open the reading list"
+        },
+        {
+          "id": "FilterNotFound",
+          "text": "Sorry, but no comics found"
+        },
+        {
+          "id": "FilterNotFoundDescription",
+          "text": "Change filters or disable them to show comics in the list"
+        },
+        {
+          "id": "NewIsEmpty",
+          "text": "There are no new comics in your library"
+        },
+        {
+          "id": "NewIsEmptyDescription",
+          "text": "To add comics, click the plus button, it is located to the left of the toolbar"
+        },
+        {
+          "id": "ReadableIsEmpty",
+          "text": "You do not have the comics that you are currently reading"
+        },
+        {
+          "id": "ReadableIsEmptyDescription",
+          "text": "To start reading comics, just add it to the reading list and start browsing"
+        },
+        {
+          "id": "ReadedIsEmpty",
+          "text": "You have not read the comics yet"
+        },
+        {
+          "id": "ReadedIsEmptyDescription",
+          "text": "To start reading comics, just add it to the reading list and start browsing"
+        },
+        {
+          "id": "UnReadedIsEmpty",
+          "text": "You do not yet have any unread comic books"
+        },
+        {
+          "id": "UnReadedIsEmptyDescription",
+          "text": "To start reading comics, just add it to the reading list and start browsing"
+        },
+        {
+          "id": "EmptyLibraryHeader",
+          "text": "Your library does not have a comic books yet"
+        },
+        {
+          "id": "EmptyLibraryStartMessageLineOne",
+          "text": "To add a comic to the library"
+        },
+        {
+          "id": "EmptyLibraryStartMessageLineTwo",
+          "text": "push the button {0} on panel"
+        }
+      ]
+    },
+    {
+      "group": "Readlist",
+      "texts": [
+        {
+          "id": "StartReading",
+          "text": "Start read comic books"
+        },
+        {
+          "id": "DeleteComics",
+          "text": "Delete comic books from read list"
+        },
+        {
+          "id": "DeleteSelectedComics",
+          "text": "Delete selected"
+        },
+        {
+          "id": "DeleteAllReadedComics",
+          "text": "Delete all read comics"
+        },
+        {
+          "id": "DeleteAllNotReadedComics",
+          "text": "Delete all unread comics"
+        },        
+        {
+          "id": "ClearReadlist",
+          "text": "Clear read list"
+        },        
+        {
+          "id": "Filters",
+          "text": "Filters for comics in the list for reading"
+        },
+        {
+          "id": "ShowReadedComics",
+          "text": "Show already read comics?"
+        },
+        {
+          "id": "IsShowReadedComics",
+          "text": "Show"
+        },
+        {
+          "id": "NotShowReadedComics",
+          "text": "Hide"
+        },
+        {
+          "id": "ShowReadedComicsTooltip",
+          "text": "Will be read list contains already read comic books"
+        },
+        {
+          "id": "SelectedReadlistSettings",
+          "text": "Read list settings"
+        },
+        {
+          "id": "DeleteComicsAfterRead",
+          "text": "Delete the comics after reading?"
+        },
+        {
+          "id": "IsDeleteComicsAfterRead",
+          "text": "Delete"
+        },
+        {
+          "id": "KeepComicsAfterRead",
+          "text": "Do not delete"
+        },
+        {
+          "id": "DeleteComicsAfterReadTooltip",
+          "text": "If the setting is enabled, then after reading the comics will be automatically deleted from the reading list"
+        },
+        {
+          "id": "ReadlistSettings",
+          "text": "Settings"
+        },
+        {
+          "id": "SelectMode",
+          "text": "Selection mode"
+        },
+        {
+          "id": "SelectModeMultiple",
+          "text": "Multiple"
+        },
+        {
+          "id": "SelectModeSingle",
+          "text": "Single"
+        },       
+        {
+          "id": "SelectModeTooltip",
+          "text": "Selection mode for comics in the list"
+        },       
+        {
+          "id": "SelectReadlist",
+          "text": "Select read list"
+        },
+        {
+          "id": "EmptyListMessage",
+          "text": "This list does not yet contain comics"
+        },
+        {
+          "id": "EmptyListDescription",
+          "text": "To add comics, you can return to the library and add comics to this list"
+        },
+        {
+          "id": "CountMessage",
+          "text": "In the list of {0} comics, of which {1} is read, and {2} is unreadable."
+        },
+        {
+          "id": "DeleteAllComics",
+          "text": "Delete all comics"
+        },
+        {
+          "id": "DeleteAllComicsDescription",
+          "text": "Are you sure you want to delete all the comics from the read list?"
+        },
+        {
+          "id": "DeleteUnreadedComics",
+          "text": "Remove unread comic books"
+        },
+        {
+          "id": "DeleteUnreadedComicsDescription",
+          "text": "Are you sure you want to delete all unread comics from the reading list?"
+        },
+        {
+          "id": "DeleteReadedComics",
+          "text": "Removing read comics"
+        },
+        {
+          "id": "DeleteReadedComicsDescription",
+          "text": "Are you sure you want to delete all read comics from the reading list?"
+        },
+        {
+          "id": "DeleteSelectedComicsMessage",
+          "text": "Delete selected comics"
+        },
+        {
+          "id": "DeleteSelectedComicsDescription",
+          "text": "Are you sure you want to delete the selected comics from the reading list?"
+        }
+      ]
+    },
+    {
+      "group": "Import",
+      "texts": [
+        {
+          "id": "AddComicsFromFiles",
+          "text": "Добавить комиксы из файлов"
+        },
+        {
+          "id": "CreateComicsFromFolder",
+          "text": "Создать комикс из папки с изображениями"
+        },
+        {
+          "id": "HelpMessageLineOne",
+          "text": "Чтобы добавить архив(ы) просто"
+        },
+        {
+          "id": "HelpMessageLineTwo",
+          "text": "перетащите в эту зону файл или папку"
+        },
+        {
+          "id": "HowToDownloadSelectedFolders",
+          "text": "Как загрузить выбранные папки?"
+        },
+        {
+          "id": "DownloadAsArchives",
+          "text": "Добавление в библиотеку всех архивов в указанных папках"
+        },
+        {
+          "id": "FolderArchives",
+          "text": "Папка с архивами"
+        },
+        {
+          "id": "DownloadAsSingleArchive",
+          "text": "Добавление в библиотеку одного архива содержащего все изображения из указанных папок"
+        },        
+        {
+          "id": "SelectNameTooltip",
+          "text": "Укажите отображаемое имя для архива созданного из папки с изображениями"
+        },        
+        {
+          "id": "SelectName",
+          "text": "Укажите имя комикса"
+        },        
+        {
+          "id": "Select",
+          "text": "Выбрать"
+        },        
+        {
+          "id": "FolderContainsImages",
+          "text": "Папка с изображениями"
+        },
+        {
+          "id": "PleaseWait",
+          "text": "Пожалуйста подождите"
+        },        
+        {
+          "id": "NavigateToComics",
+          "text": "Перейти к комиксам"
+        },        
+        {
+          "id": "FoundImages",
+          "text": "Найдено изображений {0}."
+        },
+        {
+          "id": "FoundArchives",
+          "text": "Добавлено архивов {0}."
+        },
+        {
+          "id": "DefaultAddComicsName",
+          "text": "Добавить"
+        },
+        {
+          "id": "SingleArchive",
+          "text": "Файл архива"
+        },
+        {
+          "id": "ArchivesWithinFolder",
+          "text": "Папка с архивами"
+        },
+        {
+          "id": "ImagesWithinFolder",
+          "text": "Папка с изображениями"
+        },
+        {
+          "id": "ProcessingSelectedFiles",
+          "text": "Обработка выбранных файлов..."
+        },
+        {
+          "id": "ProcessingSelectedFolders",
+          "text": "Обработка выбранных папок..."
+        },
+        {
+          "id": "SuccessImported",
+          "text": " успешно в библиотеку"
+        },        
+        {
+          "id": "ImportedWithErrors",
+          "text": " и {0} не удалось добавить"
+        },        
+        {
+          "id": "ArhivesNotFound",
+          "text": "Не найдено архивов"
+        },        
+        {
+          "id": "ArhivesNotFoundDescription",
+          "text": "В указанных файлах и/или папках нет поддерживаемых программой форматов архивов."
+        },        
+        {
+          "id": "ToastDescription",
+          "text": "Вы можете найти их в библиотеке во вкладках Новые или Все комиксы."
+        },        
+        {
+          "id": "AddedHeader",
+          "text": "Добавлено {0} архивов"
+        },        
+        {
+          "id": "ImageFolderAdded",
+          "text": "Архив {0} успешно добавлен"
+        },        
+        {
+          "id": "ImageFolderError",
+          "text": "Не удалось создать архив из папки с изображениями"
+        },        
+        {
+          "id": "ImagesNotFound",
+          "text": "Не найдено изображений"
+        },        
+        {
+          "id": "ImagesNotFoundDescription",
+          "text": "В указанных папках нет поддерживаемых программой файлов изображений."
+        },        
+        {
+          "id": "ImagesErrorDescription",
+          "text": "Произошла ошибка во время создания комикса из папки с изображением."
+        },        
+        {
+          "id": "ImagesFolderAddedToast",
+          "text": "Вы можете найти его в библиотеке во вкладках Новые или Все комиксы."
+        },        
+        {
+          "id": "AddFiles",
+          "text": "Добавить файлы"
+        },        
+        {
+          "id": "SelectFolder",
+          "text": "Выбрать папку"
+        },
+        {
+          "id": "SelectSourceHeader",
+          "text": "Что Вы хотите добавить?"
+        }
+      ]
+    },
+    {
+      "group": "ViewerPanel",
+      "texts": [
+        {
+          "id": "Transformation",
+          "text": "Transformations"
+        },        
+        {
+          "id": "Navigation",
+          "text": "Navigation"
+        },        
+        {
+          "id": "Bookmark",
+          "text": "Bookmark"
+        },        
+        {
+          "id": "EditBookmark",
+          "text": "Edit bookmark"
+        },        
+        {
+          "id": "Thumbnails",
+          "text": "Thumbnails"
+        },        
+        {
+          "id": "Settings",
+          "text": "Settings"
+        },      
+        {
+          "id": "NavigationPanels",
+          "text": "Navigation panels"
+        },
+        {
+          "id": "NavigationPanelsLeft",
+          "text": "Show left navigation panel"
+        },
+        {
+          "id": "NavigationPanelsRight",
+          "text": "Show right navigation panel"
+        },
+        {
+          "id": "EdgeIndicator",
+          "text": "Edge indicator"
+        },
+        {
+          "id": "EdgeIndicatorPages",
+          "text": "Hide page navigation"
+        },
+        {
+          "id": "EdgeIndicatorStartEnd",
+          "text": "Hide edge navigation"
+        },
+        {
+          "id": "EdgeIndicatorAutoButtonVisible",
+          "text": "Hide inappropriate navigation"
+        },
+        {
+          "id": "Bookmarks",
+          "text": "Bookmarks"
+        },       
+        {
+          "id": "BookmarksNext",
+          "text": "Next bookmark"
+        },       
+        {
+          "id": "BookmarksPrev",
+          "text": "Previous bookmark"
+        },
+        {
+          "id": "NextPage",
+          "text": "Next page"
+        },        
+        {
+          "id": "PreviousPage",
+          "text": "Previous page"
+        },        
+        {
+          "id": "FirstPage",
+          "text": "First page"
+        },        
+        {
+          "id": "EndPage",
+          "text": "Last page"
+        },        
+        {
+          "id": "PreviousComics",
+          "text": "Previous comic book"
+        },        
+        {
+          "id": "NextComics",
+          "text": "Next comic book"
+        }
+      ]
+    },
+    {
+      "group": "ViewerTransformation",
+      "texts": [
+        {
+          "id": "VerticalMirror",
+          "text": "Vertical reflection"
+        },                
+        {
+          "id": "VerticalMirrorTooltip",
+          "text": "Flip image vertically"
+        },                
+        {
+          "id": "HorizontalMirror",
+          "text": "Horizontal reflection"
+        },                
+        {
+          "id": "HorizontalMirrorTooltip",
+          "text": "Flip image horizontally"
+        },                
+        {
+          "id": "Rotate",
+          "text": "Rotate"
+        },                
+        {
+          "id": "NotRotate",
+          "text": "Not rotate"
+        },                
+        {
+          "id": "Rotate90",
+          "text": "Rotate on 90°"
+        },                
+        {
+          "id": "Rotate180",
+          "text": "Rotate on 180°"
+        },                
+        {
+          "id": "Rotate270",
+          "text": "Rotate on 270°"
+        },                
+        {
+          "id": "Save",
+          "text": "Save"
+        },                
+        {
+          "id": "Reset",
+          "text": "Reset"
+        }                
+      ]
+    },
+    {
+      "group": "ViewerBookmark",
+      "texts": [
+        {
+          "id": "SelectColor",
+          "text": "Bookmark color"
+        },                
+        {
+          "id": "Description",
+          "text": "Description"
+        },                
+        {
+          "id": "Save",
+          "text": "Save"
+        },                
+        {
+          "id": "Delete",
+          "text": "Delete"
+        },
+        {
+          "id": "Transparent",
+          "text": "Transparent"
+        },        
+        {
+          "id": "Red",
+          "text": "Red"
+        },        
+        {
+          "id": "Green",
+          "text": "Green"
+        },        
+        {
+          "id": "Maroon",
+          "text": "Maroon"
+        },        
+        {
+          "id": "Gold",
+          "text": "Gold"
+        },        
+        {
+          "id": "Violet",
+          "text": "Violet"
+        },        
+        {
+          "id": "Orange",
+          "text": "Orange"
+        }
+      ]
+    },
+    {
+      "group": "ViewerThumbnails",
+      "texts": [
+        {
+          "id": "ReturnToViewer",
+          "text": "Вернуться к просмотру комикса без изменений"
+        },                
+        {
+          "id": "Settings",
+          "text": "Settings"
+        },                
+        {
+          "id": "ShowPageNumber",
+          "text": "Show page numbers"
+        },                
+        {
+          "id": "ShowPageNumberTooltip",
+          "text": "Displaying page numbers at the top of the image?"
+        }
+      ]
+    },
+    {
+      "group": "ViewerSettings",
+      "texts": [
+        {
+          "id": "TwoPageMode",
+          "text": "Two page mode"
+        },
+        {
+          "id": "TwoPageModeTooltip",
+          "text": "Will display two pages at a time"
+        },
+        {
+          "id": "MainCover",
+          "text": "Main cover"
+        },
+        {
+          "id": "MainCoverTooltip",
+          "text": "Will the cover be displayed while watching a comic book?"
+        },        
+        {
+          "id": "AdditionalCover",
+          "text": "Additional covers"
+        },
+        {
+          "id": "AdditionalCoverTooltip",
+          "text": "Will additional the cover be displayed while watching a comic book?"
+        },
+        {
+          "id": "ScaleMode",
+          "text": "Scale mode"
+        },        
+        {
+          "id": "LandscapeTooltip",
+          "text": "Масштабирование изображения для окна у которого ширина больше чем высота"
+        },        
+        {
+          "id": "PortraitTooltip",
+          "text": "Масштабирование изображения для окна у которого ширина меньше чем высота"
+        },        
+        {
+          "id": "SquareTooltip",
+          "text": "Масштабирование изображения для окна у которого ширина и высота равны"
+        },        
+        {
+          "id": "LiveTile",
+          "text": "Live tile"
+        },
+        {
+          "id": "LiveTileTooltip",
+          "text": "Pin live tile on start menu that contains image last opened page and name comic book"
+        },
+        {
+          "id": "LiveTileButton",
+          "text": "Pin"
+        },
+        {
+          "id": "LiveTileHeader",
+          "text": "Comic book"
+        },
+        {
+          "id": "LiveTilePage",
+          "text": "Page {0} from {1}"
+        },
+        {
+          "id": "ScaleOriginal",
+          "text": "Original size"
+        },        
+        {
+          "id": "ScaleFitToWidth",
+          "text": "Fit to width"
+        },        
+        {
+          "id": "ScaleFitToHeight",
+          "text": "Fit to height"
+        },        
+        {
+          "id": "ScaleSystemProfile",
+          "text": "Sytem profile"
+        },    
+        {
+          "id": "UnsavedChangesTitle",
+          "text": "You have unsaved changes"
+        },    
+        {
+          "id": "UnsavedChangesBookmark",
+          "text": "bookmark"
+        },    
+        {
+          "id": "UnsavedChangesTransformation",
+          "text": "transforms"
+        },
+        {
+          "id": "UnsavedChangesUnionChanges",
+          "text": "{0} and {1}"
+        },
+        {
+          "id": "UnsavedChangesFullMessage",
+          "text": "You changed {0} on current page, want save this changes?"
+        },    
+        {
+          "id": "UnsavedChangesSave",
+          "text": "Save"
+        },    
+        {
+          "id": "UnsavedChangesDontSave",
+          "text": "Don't save"
+        }
+      ]
+    }    
+  ],
+  "images":[],
+  "vectors":[]
+}
