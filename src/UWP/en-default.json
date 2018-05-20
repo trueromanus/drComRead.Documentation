@@ -426,151 +426,151 @@
       "texts": [
         {
           "id": "AddComicsFromFiles",
-          "text": "Добавить комиксы из файлов"
+          "text": "Add comics from files"
         },
         {
           "id": "CreateComicsFromFolder",
-          "text": "Создать комикс из папки с изображениями"
+          "text": "Create comic book from folder with images"
         },
         {
           "id": "HelpMessageLineOne",
-          "text": "Чтобы добавить архив(ы) просто"
+          "text": "In order add archives"
         },
         {
           "id": "HelpMessageLineTwo",
-          "text": "перетащите в эту зону файл или папку"
+          "text": "drag a file or folder to this area"
         },
         {
           "id": "HowToDownloadSelectedFolders",
-          "text": "Как загрузить выбранные папки?"
+          "text": "How import selected folders?"
         },
         {
           "id": "DownloadAsArchives",
-          "text": "Добавление в библиотеку всех архивов в указанных папках"
+          "text": "Add to the library all archives from the selected folders"
         },
         {
           "id": "FolderArchives",
-          "text": "Папка с архивами"
+          "text": "Folder with archives"
         },
         {
           "id": "DownloadAsSingleArchive",
-          "text": "Добавление в библиотеку одного архива содержащего все изображения из указанных папок"
+          "text": "Adding one archive containing all the images from the specified folders to the library"
         },        
         {
           "id": "SelectNameTooltip",
-          "text": "Укажите отображаемое имя для архива созданного из папки с изображениями"
+          "text": "Specify a display name for the archive created from the image folder"
         },        
         {
           "id": "SelectName",
-          "text": "Укажите имя комикса"
+          "text": "Coimic book name"
         },        
         {
           "id": "Select",
-          "text": "Выбрать"
+          "text": "Select"
         },        
         {
           "id": "FolderContainsImages",
-          "text": "Папка с изображениями"
+          "text": "Folder with images"
         },
         {
           "id": "PleaseWait",
-          "text": "Пожалуйста подождите"
+          "text": "Please wait"
         },        
         {
           "id": "NavigateToComics",
-          "text": "Перейти к комиксам"
+          "text": "Go to library"
         },        
         {
           "id": "FoundImages",
-          "text": "Найдено изображений {0}."
+          "text": "Found images {0}."
         },
         {
           "id": "FoundArchives",
-          "text": "Добавлено архивов {0}."
+          "text": "Found archives {0}."
         },
         {
           "id": "DefaultAddComicsName",
-          "text": "Добавить"
+          "text": "Add"
         },
         {
           "id": "SingleArchive",
-          "text": "Файл архива"
+          "text": "Archive file"
         },
         {
           "id": "ArchivesWithinFolder",
-          "text": "Папка с архивами"
+          "text": "Folder with archives"
         },
         {
           "id": "ImagesWithinFolder",
-          "text": "Папка с изображениями"
+          "text": "Folder with images"
         },
         {
           "id": "ProcessingSelectedFiles",
-          "text": "Обработка выбранных файлов..."
+          "text": "Processing selected files..."
         },
         {
           "id": "ProcessingSelectedFolders",
-          "text": "Обработка выбранных папок..."
+          "text": "Processing selected folders..."
         },
         {
           "id": "SuccessImported",
-          "text": " успешно в библиотеку"
+          "text": " successfully to the library"
         },        
         {
           "id": "ImportedWithErrors",
-          "text": " и {0} не удалось добавить"
+          "text": " and {0} could not be added to the library"
         },        
         {
           "id": "ArhivesNotFound",
-          "text": "Не найдено архивов"
+          "text": "Archives not found"
         },        
         {
           "id": "ArhivesNotFoundDescription",
-          "text": "В указанных файлах и/или папках нет поддерживаемых программой форматов архивов."
+          "text": "The following files or folders have no supported archive formats."
         },        
         {
           "id": "ToastDescription",
-          "text": "Вы можете найти их в библиотеке во вкладках Новые или Все комиксы."
+          "text": "You can find them in the library in the New or All comics sections."
         },        
         {
           "id": "AddedHeader",
-          "text": "Добавлено {0} архивов"
+          "text": "Added {0} archives"
         },        
         {
           "id": "ImageFolderAdded",
-          "text": "Архив {0} успешно добавлен"
+          "text": "Archive {0} successfully added"
         },        
         {
           "id": "ImageFolderError",
-          "text": "Не удалось создать архив из папки с изображениями"
+          "text": "Could not create archive from image folder"
         },        
         {
           "id": "ImagesNotFound",
-          "text": "Не найдено изображений"
+          "text": "Not found images"
         },        
         {
           "id": "ImagesNotFoundDescription",
-          "text": "В указанных папках нет поддерживаемых программой файлов изображений."
+          "text": "There are no image files supported by the program in the specified folders."
         },        
         {
           "id": "ImagesErrorDescription",
-          "text": "Произошла ошибка во время создания комикса из папки с изображением."
+          "text": "An error occurred while creating a comic from the image folder."
         },        
         {
           "id": "ImagesFolderAddedToast",
-          "text": "Вы можете найти его в библиотеке во вкладках Новые или Все комиксы."
+          "text": "You can find them in the library in the New or All comics sections."
         },        
         {
           "id": "AddFiles",
-          "text": "Добавить файлы"
+          "text": "Add files"
         },        
         {
           "id": "SelectFolder",
-          "text": "Выбрать папку"
+          "text": "Select folder"
         },
         {
           "id": "SelectSourceHeader",
-          "text": "Что Вы хотите добавить?"
+          "text": "What do you want to add?"
         }
       ]
     },
@@ -770,7 +770,7 @@
       "texts": [
         {
           "id": "ReturnToViewer",
-          "text": "Вернуться к просмотру комикса без изменений"
+          "text": "Return to viewing the comic book without changes"
         },                
         {
           "id": "Settings",
@@ -819,15 +819,15 @@
         },        
         {
           "id": "LandscapeTooltip",
-          "text": "Масштабирование изображения для окна у которого ширина больше чем высота"
+          "text": "Scaling an image for a window whose width is greater than the height"
         },        
         {
           "id": "PortraitTooltip",
-          "text": "Масштабирование изображения для окна у которого ширина меньше чем высота"
+          "text": "Scaling an image for a window whose width is less than the height"
         },        
         {
           "id": "SquareTooltip",
-          "text": "Масштабирование изображения для окна у которого ширина и высота равны"
+          "text": "Scaling an image for a window whose width and height are equal"
         },        
         {
           "id": "LiveTile",
