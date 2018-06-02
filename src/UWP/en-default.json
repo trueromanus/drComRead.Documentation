@@ -108,7 +108,7 @@
         },
         {
           "id": "DateAppended",
-          "text":"Date of import to the library",
+          "text":"Date of import",
         },
         {
           "id": "FilterButton",
@@ -148,7 +148,7 @@
         },
         {
           "id": "SortDateAppended",
-          "text":"Date of import to the library",
+          "text":"Date of import",
         },
         {
           "id": "SortDateLastReaded",
