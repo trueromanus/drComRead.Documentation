@@ -1,0 +1,22 @@
+﻿{
+  "title" : "General information",
+  "name" : "common",
+  "pages" : [
+    {
+      "file" : "quickstart",
+      "title" : "Quick start"
+    },
+    {
+      "file" : "features",
+      "title" : "Features"
+    },
+    {
+      "file" : "overview",
+      "title" : "Overview"
+    },
+    {
+      "file" : "knownproblems",
+      "title" : "Known ploblems"
+    }
+  ]
+}

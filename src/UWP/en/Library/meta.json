@@ -1,0 +1,26 @@
+﻿{
+  "title" : "Library",
+  "name" : "library",
+  "pages" : [
+    {
+      "file" : "sections",
+      "title" : "Sections"
+    },    
+    {
+      "file" : "addcomics",
+      "title" : "Import comics"
+    },
+    {
+      "file" : "deletecomics",
+      "title" : "Delete comics"
+    },
+    {
+      "file" : "filters",
+      "title" : "Search and filtering"
+    },
+    {
+      "file" : "settings",
+      "title" : "Settings"
+    }
+  ]
+}

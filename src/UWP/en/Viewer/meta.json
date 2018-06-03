@@ -1,0 +1,26 @@
+﻿{
+  "title" : "Comics viewer",
+  "name" : "viewer",
+  "pages" : [
+    {
+      "file" : "navigation",
+      "title" : "Navigation"
+    },
+    {
+      "file" : "settings",
+      "title" : "Settings"
+    },
+    {
+      "file" : "bookmarks",
+      "title" : "Bookmarks"
+    },
+    {
+      "file" : "thumbnails",
+      "title" : "Thumbnails"
+    },
+    {
+      "file" : "transformations",
+      "title" : "Image transformations"
+    }
+  ]
+}

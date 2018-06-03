@@ -1,0 +1,18 @@
+{
+  "title" : "Read list",
+  "name" : "readlist",
+  "pages" : [
+    {
+      "file" : "viewcomics",
+      "title" : "Comics viewer"
+    },
+    {
+      "file" : "settings",
+      "title" : "Settings"
+    },
+    {
+      "file" : "deletecomics",
+      "title" : "Delete comics"
+    }
+  ]
+}
