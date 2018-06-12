@@ -35,6 +35,14 @@
         {
           "id": "Readlist",
           "text":"Read's list",
+        },        
+        {
+          "id": "Skip",
+          "text":"Skip",
+        },        
+        {
+          "id": "Next",
+          "text":"Next",
         }        
       ]
     },
@@ -281,6 +289,10 @@
         {
           "id": "EmptyLibraryStartMessageLineTwo",
           "text": "push the button {0} on panel"
+        },
+        {
+          "id": "RenameCountMessage",
+          "text": "Count {0} of {1} comics"
         }
       ]
     },
