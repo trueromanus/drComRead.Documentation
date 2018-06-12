@@ -35,7 +35,15 @@
         {
           "id": "Readlist",
           "text":"Список чтения",
-        }        
+        },        
+        {
+          "id": "Skip",
+          "text":"Skip",
+        },        
+        {
+          "id": "Next",
+          "text":"Next",
+        }
       ]
     },
     {
@@ -281,6 +289,10 @@
         {
           "id": "EmptyLibraryStartMessageLineTwo",
           "text": "нажмите на кнопку {0} на панели"
+        },
+        {
+          "id": "RenameCountMessage",
+          "text": "{0} комикс из {1}"
         }
       ]
     },
