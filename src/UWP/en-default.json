@@ -99,7 +99,7 @@
           "text":"New comic book name",
         },
         {
-          "id": "RenameNewName",
+          "id": "TooltipRenameNewName",
           "text":"Type new name",
         },
         {
