@@ -87,6 +87,30 @@
       "group": "Library",
       "texts": [
         {
+          "id": "RenameComics",
+          "text":"Переименовать комиксы",
+        },
+        {
+          "id": "RenameOldName",
+          "text":"Текущее имя комикса",
+        },
+        {
+          "id": "RenameNewName",
+          "text":"Новое имя комикса",
+        },
+        {
+          "id": "RenameNewName",
+          "text":"Введите новое имя",
+        },
+        {
+          "id": "MarkComicsAsReaded",
+          "text":"Пометить комиксы как прочитанные",
+        },
+        {
+          "id": "MarkComicsAsUnreaded",
+          "text":"Пометить комиксы как непрочитанные",
+        },	  
+        {
           "id": "AddButton",
           "text":"Добавить комиксы в библиотеку",
         },
