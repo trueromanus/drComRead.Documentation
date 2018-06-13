@@ -87,6 +87,30 @@
       "group": "Library",
       "texts": [
         {
+          "id": "RenameComics",
+          "text":"Rename comic books",
+        },
+        {
+          "id": "RenameOldName",
+          "text":"Current comic book name",
+        },
+        {
+          "id": "RenameNewName",
+          "text":"New comic book name",
+        },
+        {
+          "id": "RenameNewName",
+          "text":"Type new name",
+        },
+        {
+          "id": "MarkComicsAsReaded",
+          "text":"Mark comic books as readed",
+        },
+        {
+          "id": "MarkComicsAsUnreaded",
+          "text":"Mark comic books as unreaded",
+        },
+        {
           "id": "AddButton",
           "text":"Add comics to the library",
         },
