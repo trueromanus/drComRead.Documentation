@@ -99,7 +99,7 @@
           "text":"Новое имя комикса",
         },
         {
-          "id": "RenameNewName",
+          "id": "TooltipRenameNewName",
           "text":"Введите новое имя",
         },
         {
