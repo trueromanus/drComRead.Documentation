@@ -1,3 +1,3 @@
-## Известные проблемы и их решение
+## Known issues and solutions
 
-На текущий момент нет данных для публикации в этом разделе
+There are currently no data to display in this section.
