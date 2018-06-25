@@ -1,18 +1,18 @@
-## Управление просмотром комикса
+## Viewing a comic book
 
-Список чтения позволяет управлять некоторыми аспектами просмотра комиксов. Список имеет горизонтальную ориентацию слева направо.
+The reading list allows you to control some aspects of comic book viewing. The list has a horizontal orientation from left to right.
 
-## Как начать просмотр?
+## How do I start read comics?
 
-Для этого достаточно нажать на кнопку **Начать просмотр комиксов** на панели действий.  
-![Начать просмотр комиксов](play.jpg)  
+To do this, just click the **Start read comic books** button in the action bar.
+![Start read comic books](play.jpg)  
 
-## Стартовый комикс
+## Selected comic book
 
-Список чтения это последовательность комиксов для просмотра. После перехода на страницу **Просмотр комикса** откроется стартовый комикс в списке чтения. После того как Вы будете читать комиксы в списке чтения стартовый комикс будет сдвигаться на тот комикс, который Вы открыли самым последним. Если Вы выйдете из просмотра комиксов, а затем вернетесь на страницу **Список чтения**, то стартовым комиксом будет именно тот на котором Вы остановились в последний раз.  
-![Стартовый комикс в списке комиксов](currentcomic.jpg)  
-Стартовый комикс отмечается в списке пунктирной линией.
+The reading list is a sequence of comics for viewing. After going to the page **Comics view** a starting comic will open in the reading list. After you read the comics on the reading list, the starter comic will shift to the comic book you opened last. If you exit the comic book view, and then return to the **Reading List** page, then the starting comic will be the one you left on for the last time.  
+![Selected comic book](currentcomic.jpg)  
+Selected comics marked in the reading list with a dashed line.
 
-## Изменение стартового комикса
+## Change selected comic book
 
-Вы можете в любой момент изменить стартовый комикс для этого достаточно выбрать какой-то другой отличный от стартового комикс и кликнуть на нем правой кнопкой мыши, долгий тап (для touch управления), кнопку Menu на геймпаде. Стоит учитывать что при этом теряется страница комикса до которой Вы дочитали в предыдущем стартовом комиксе. В новом стартовом комиксе устанавливается первая страница для просмотра. Т.е. Вы начнете чтение с первой страницы нового стартового комикса.
+You can change the starting comics at any time for this just by choosing some other different from the selected comic book and clicking on it with the right mouse button, long tap (for touch control), the Menu button on the gamepad. In the new selected comic book, the first page for viewing is installed. Those. You will begin reading from the first page of the new start comic.
