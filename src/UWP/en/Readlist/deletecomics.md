@@ -1,16 +1,16 @@
-## Удаление комиксов из списка чтения
+## Remove comics from the reading list
 
-Из списка чтения можно удалять ненужные Вам комиксы при помощи меню удаления. Можно удалить как несколько конкретных так и все прочитанные либо не прочитанные там и очистить список чтения целиком. Меню доступно по нажатию на кнопку **Удалить комиксы из списка чтения**.  
-![Удалить комиксы из списка чтения](delete.jpg)
+From the reading list, you can delete unnecessary comics using the delete menu. You can delete as a few specific and all read or not read there, and clear the entire reading list. The menu is available by clicking on the button **Delete comics from the reading list**.  
+![Remove comics from the reading list](delete.jpg)
 
-## Удаление выбранных комиксов
+## Delete selected comics
 
-Чтобы удалить выбранные комиксы вначале необходимо найти необходимые для удаления комиксы в списке и выбрать их. Если Вы хотите выбрать несколько комиксов за раз необходимо включить настройку **Режим выбора в списке** [подробнее](settings.md). Чтобы выбрать комиксы достаточно кликнуть по ним левой кнопкой мыши, тапнуть или нажать на кнопку A на геймпаде. Далее войдите в меню удаления нажатием на кнопку **Удалить комиксы из списка чтения** и выберете пункт **Удалить выбранные**.
+To delete selected comic books, you must first find the comics you need to delete in the list and select them. If you want to select several comics at a time, you must enable the setting **Selection mode in the list** [more info](settings.md). To select comics, just click on them with the left mouse button, tap or press the A button on the gamepad. Then go to the delete menu by clicking on the button **Delete comics from the reading list** and select the item **Delete selected**.
 
-## Удаление прочитанных или не прочитанных
+## Delete read or not read
 
-Вы также можете удалить все прочтитанные или непрочитанные комиксы. Здесь имеются ввиду все прочитанные в данном списке чтения комиксы. Чтобы сделать это войдите в меню удаления нажатием на **Удалить комиксы из списка чтения** и выберите один из пунктов необходимых Вам - **Удалить все прочитанные** или **Удалить все непрочитанные**.
+You can also delete all read or unread comics. Here we mean all the comics read in this list of readings. To do this, go to the delete menu by clicking on **Delete comics from the reading list** and select one of the items you need - **Delete all readed** or **Delete all unreaded**.  
+  
+## Clear the entire reading list
 
-## Очистка списка чтения целиком
-
-Чтобы очистить все список чтения целиком достаточно войти в меню удаления нажатием на **Удалить комиксы из списка чтения** и выбрать пункт очистить список чтения.
+To clear the whole reading list, just enter the delete menu by pressing **Delete comics from the reading list** and select the item to clear the reading list.
