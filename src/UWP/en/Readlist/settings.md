@@ -1,22 +1,22 @@
-## Настройка списка чтения
+## Settings
 
-На странице список чтения есть настройки фильтрации, настройки текущего списка чтения и настройки страницы список чтения.  
-![Кнопки настроек](buttons.jpg)  
-Все эти настройки сохраняются и применяются сразу.
+On the read list page, there are filtering settings, the current reading list settings and the page reading list settings.
+![Settings](buttons.jpg)  
+All these settings are saved and applied immediately.
 
-### Настройки фильтрации
+### Filter settings
 
-Настройки фильтрации влияют на то как будет фильтроваться комиксы в списке чтения. На текущий момент можно выбрать будут ли показываться или скрываться прочитанные комиксы в списке чтения с помощью переключателя **Показывать прочитанные комиксы**.  
-![Настройка фильтрации](filter.jpg)  
-Прочитанные комиксы могут оставаться в списке чтения только если активна настройка выбранного списка чтения **Удалять комиксы после прочтения**.
+The filter settings affect how the comics in the reading list will be filtered. At the moment, you can choose whether to show or hide the comics in the reading list with the **Show already read comics?**.  
+![Filter settings](filter.jpg)  
+Read comics can remain in the read list only if the selected reading list is active **Delete the comics after reading?**.  
 
-### Настройка текущего списка чтения
+### Setting up the current reading list
 
-Эти настройки влияют только то выбранный в данный момент список чтения. Вы можете выбрать будут ли комиксы удаляться из списка чтения Во время переходов между комиксами на странице **Просмотр комикса** с помощью настройки **Удалять комиксы после прочтения**.  
-![Настройки текущего списка чтения](readlist.jpg)  
-Прочитанным считается комикс когда произведен переход на следующий комикс с последней страницы текущего.
+These settings only affect the currently selected reading list. You can choose whether the comics will be deleted from the reading list during transitions between comic books on the page with the settings **Delete the comics after reading?**.  
+![Setting up the current reading list](readlist.jpg)  
+Comic book become "Readed" when the transition to the next comic from the last page of the current one is made.
 
-### Настройки страницы списка чтения
+### Reading list page settings
 
-Настройка **Режим выбора в списке** позволяет изменить то сколько элементов можно выбрать в списке - один или несколько. Настройка **Выбрать список чтения** влияет на то какой список чтения открыт в данный момент.  
-![Настройки текущего списка чтения](settings.jpg)  
+Option **Selection mode** allows you to change how many items you can select in the list - one or more. Option **Select read list** affects what kind of reading list is open at the moment.  
+![Reading list page settings](settings.jpg)  
