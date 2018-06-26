@@ -1,5 +1,5 @@
-## Удаление комиксов
+## Removing comics
 
-Чтобы удалить комиксы из библиотеки достаточно выделить их в любом разделе библиотеке и нажать на кнопку **Удалить комикс из библиотеки**.  
-![Кнопка удаления](delete.jpg)  
-Далее выбрать пункт **Удалить выбранные комиксы**.
+To remove comics from the library, just select them in any section of the library and click on the button **Delete the comic from the library**.  
+![Delete button](delete.jpg)  
+Then select item **Delete selected comics**.
