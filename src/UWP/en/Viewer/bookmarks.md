@@ -1,17 +1,17 @@
-## Закладки
+## Bookmarks
 
-В приложении есть возможность ставить закладки на страницы комикса. Вам достаточно открыть интересующую Вас страницу комикса во время просмотра и сохранить закладку с помощью специальной формы.
+In the application there is an opportunity to put bookmarks on the pages of the comics. You just open the comics page you are interested in while browsing and save the bookmark using a special form.  
 
-### Добавление закладки
+### Adding a bookmark
 
-Для того чтобы добавить закладку достаточно нажать на кнопку **Закладка**.  
-![Кнопка закладка](bookmarkbutton.jpg)  
-После чего Вы можете выбрать для закладки цвет в поле **Цвет закладки** и добавить примечание в поле **Примечание**. Цвет закладки и примечание необязательные поля Вы можете их не заполнять.  
-![Форма закладки](bookmarkform.jpg)  
-Чтобы сохранить закладку необходимо нажать на кнопку **Сохранить**. На случай если Вы отредактировали поля закладки и переходите на другую  страницу или другой комикс программа спросит Вас о том нужно ли отбросить изменения или сохранить их.  
-![Форма закладки](bookmarkconfirm.jpg)  
-После сохранения кнопка **Закладка** при повторном просмотре будет подкрашиваться выбранным Вами цветом и иметь подсказку с введенным Вами описанием.
+To add a bookmark, just click the **Bookmark** button.
+![Bookmark Button](bookmarkbutton.jpg)  
+Then you can choose to bookmark the color in the **Colors field** and add a note in the **Note** field. Bookmark color and note optional fields You can not fill them.
+![Bookmark form](bookmarkform.jpg)  
+To save a bookmark, click the **Save** button. In case you have edited the bookmark fields and go to another page or another comic, the program will ask you if you need to discard the changes or save them.  
+![Bookmark form](bookmarkconfirm.jpg)  
+After saving, the button **Bookmark** will be colored by the color selected by you in the second review and have a hint with the description you entered.  
 
-### Удаление закладки
+### Delete a bookmark
 
-Чтобы удалить созданную Вами ранее закладку достаточно нажать на кнопку **Закладка** и в открывшийся панели нажать на кнопку **Удалить**.
+To delete the bookmark you created earlier, just click on the button **Bookmark** and click on the button **Delete** in the opened panel.
