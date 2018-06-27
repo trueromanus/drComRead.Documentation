@@ -1,33 +1,33 @@
-## Настройки
+## Settings
 
-Настройки просмотра комиксов позволяют менять режимы масштабирования изображения а также видимость страниц обложек и дополнительных обложек. Чтобы открыть настройки страницы Просмотр комикса нажмите на кнопку **Настройки**.  
-![Настройки страницы просмотр комикса](settings.jpg)
+Settings for viewing comics allow you to change the mode of image scaling and also the visibility of cover pages and additional covers. To open the settings of the Comics View page, click the **Settings** button.  
+![Page settings view comics](settings.jpg)
 
-### Режимы масштабирования
+### Scaling modes
 
-Режимы масштабирования представлены в виде трех настроек ориентаций. Портретной, альбомной и квадратной. Настройки указываются для каждой из них отдельно.  
-![Настройки масштабирвоания](scalesettings.jpg)  
-Настройки масштабирования зависят от размера окна и/или доступной области просмотра.  
-Доступны следующие настройки масштабирования:
-* Оригинальный размер
-* Выровнять по ширине
-* Выровнять по высоте
-* Системный профиль
+Scaling modes are presented as three orientation settings. Portrait, landscape and square. Settings are specified for each of them separately.  
+![Zoom Settings](scalesettings.jpg)  
+The zoom settings depend on the size of the window and / or the available viewing area.
+The following zoom settings are available:  
+* Original size
+* Fit to width
+* Fit to height
+* System Profile
 
-**Оригинальный размер** подразумевает что изображение будет отображаться на холсте с использованием своего оригинального размера. Данный режим просмотра удобен только для комиксов в формате стрипов (comic strip) потому что они имеют очень маленький размер.
-**Выровнять по ширине** походит для изображений в портретной ориентации такой как у обычных страниц комикса. Ширина изображения подгоняется по ширину окна (или области просмотра). При изменении размеров окна изменяется и размер изображения.
-**Выровнять по высоте** походит для изображений в альбомной ориентации такой как у разворота страниц комикса, или двух страниц за раз. Высота изображения подгоняется по высоте окна (или области просмотра). При изменении размеров окна изменяется и размер изображения.
-**Системный профиль** это настройка по умолчанию. Системный профиль содержит сопоставления для различных размеров окна/области просмотра и изменяет их автоматически при изменении их размеров. Данная настройка полагается на ряд подготовленных размеров и сопоставлений к ним. На текущий момент времени количество размеров не велико, поэтому если в Вашем случае масштабирование Вас не удовлетворяет, рекомендуется изменить на одну из настроек указанных выше.
+**Original size** implies that the image will be displayed on the canvas using its original size. This view mode is convenient only for comic strip comic strip because they have very small size.
+**Fit to width** is similar to images in portrait orientation such as that of conventional comics pages. The width of the image is adjusted according to the width of the window (or viewing area). When you resize the window, the size of the image changes.
+**Fit to height** is suitable for images in landscape orientation such as the page turn of a comic book, or two pages at a time. The height of the image is adjusted according to the height of the window (or viewing area). When you resize the window, the size of the image changes.
+**System Profile** this is the default setting. The system profile contains mappings for different window / viewport sizes and changes them automatically when their sizes change. This setting relies on a number of prepared sizes and comparisons to them. At the current time, the number of sizes is not large, so if in your case the scaling does not satisfy you, it is recommended to change it to one of the settings listed above.
 
-### Видимость обложек
+### Covers visibility
 
-По умолчанию во время просмотра доступны все страницы включая обложки. Но возможно Вам не хотелось бы начинать просмотр комиксов с обложки а непосредственно сразу начать чтение комикса. Для этого есть настройки которые позволят Вам не включать обложки в список страниц просмотра комикса.  
-![Настройки масштабирования](covers.jpg)  
-Для изменения этого поведения необходимо выключить один или оба переключателя **Основная обложка** и **Дополнительные обложки**.
+By default, all pages including covers are available while browsing. But maybe you do not want to start watching comics from the cover and immediately begin to read the comics. For this, there are settings that allow you not to include covers in the list of comics viewing pages.  
+![Zoom Settings](covers.jpg)  
+To change this behavior, you must turn off one or both of the switches **Main Cover** and **Additional Covers**.
 
-### Живая плитка
+### Live tile
 
-Начиная с Windows 8 появилась возможность добавлять живые плитки в специальный рабочий стол, а в Windows 10 и в меню Пуск. Вы можете добавить плитку которая будет показывать информацию о том какой последний комикс Вы читали, на какой странице закончили и превью самой страницы.  
-![Живая плитка](livetile.jpg)  
-Чтобы добавить живую плитку достаточно просто нажать на кнопку **Закрепить** и ответить утвердительно в системном диалоге.
+Starting with Windows 8, it became possible to add live tiles to a special desktop, and in Windows 10 and the Start menu. You can add a tile that will show information about what the last comic you read, on which page finished and the preview of the page itself.  
+![Live tile](livetile.jpg)  
+To add live tiles, simply click on the ** Lock ** button and answer in the system dialog in the affirmative.
 
