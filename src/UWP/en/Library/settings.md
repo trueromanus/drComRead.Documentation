@@ -1,23 +1,23 @@
-## Настройки библиотеки
+## Library settings
 
-Вы можете изменить некоторые настройки библиотеки. Для этого достаточно нажать на кнопку **Настройки библиотеки** на панеля действий.  
-![Настройки библиотеки](settings.jpg)  
-После этого откроется панель настроек.  
-![Настройки библиотеки](settingslibrary.jpg)
+You can change some library settings. To do this, just click the **Settings** button on the action bar.  
+![Library settings](settings.jpg)  
+After that, the settings panel opens.  
+![Library settings](settingslibrary.jpg)
 
-## Режим выбора
+## Selection mode
 
-Позволяет изменить режим выбора комиксов в сетке между одиночным и множественным. По умолчанию установлен множественный выбор.
+Allows you to change the selection mode of comics in the grid between single and multiple. The default is multiple choice.
 
-## Список чтения
+## Reading list
 
-Вы можете выбрать список чтения из выпадающего списка в который будет происходить добавление комиксов. В текущей версии нельзя добавить больше одного списка чтения но в будущих версиях этот функционал будет добавлен.
+You can select a reading list from the drop-down list in which comics will be added. In the current version, you can not add more than one reading list, but in future versions this functionality will be added.  
 
-## Добавлять в список чтения
+## Add to Read List
 
-Позволяет настроить то в какое место будут добавляться комиксы в список чтения.  
-Доступные варианты:
-* **В конце списка** добавляет после самого последнего комикса в списке чтения без учета признака прочтения
-* **В начало списка** добавляет комиксы в самое начало списка чтения без учета признака прочтения
-* **После текущего** добавляет комиксы после текущего стартового комикса в списке чтения с учетом признака чтения
-* **Перед текущим** добавляет комиксы после текущего стартового комикса в списке чтения с учетом признака чтения
+Allows you to configure where the comics will be added to the reading list.  
+Available options:
+* **End of the list** adds after the most recent comics in the reading list without taking into account the reading sign
+* **To the top of the list** adds comics to the very beginning of the reading list without taking into account the reading sign
+* **After the current** adds comics after the current starting comics in the reading list with the reading attribute taken into account
+* **Before the current** adds comics after the current starting comics in the reading list with the reading attribute taken into account
