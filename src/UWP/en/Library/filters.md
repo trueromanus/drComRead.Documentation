@@ -1,24 +1,24 @@
-## Фильтрация списка комиксов
+## Comic list filtering
 
-Библиотека разбита на разделы но когда количество комиксов увеличивается то необходимо найти какой-то комикс или комиксы Вы можете воспользоваться возможностями поиска и фильтрации представленными в приложении drComRead.  
-![Кнопки фильтрации и поиска](filterbuttons.jpg)  
-Вам доступны фильтры и поиск по дате создания, дате последнего просмотра, поиск по имени и признаку прочтения и сортировка списка.
+The library is divided into sections, but when the number of comics increases, you need to find some comics or comics. You can use the search and filtering capabilities presented in the drComRead application.  
+![Buttons for filtering and searching](filterbuttons.jpg)  
+You can find filters and search by date of creation, date of last viewing, search by name and reading attribute and sorting the list.
 
-## Сортировка
+## Sorting
 
-Сортировка списка позволяет Вам упорядовачивовать элементы в зависимости от выбранного поля сортировки и направления сортировки.  
-![Панель сортировки](sort.jpg)  
-**Сортировать по** позволяет выбрать по какому полю комикса будет происходить сортировка. **Нисходящая** позволяет указать направление сортировки. Если активна нисходящая значит что строки будут сортироваться от А-Я числа от 0-1 а даты от прошлого к будущему в ином случае все наоборот.
+Sorting the list allows you to arrange items depending on the selected sort field and sort direction.  
+![Sorting panel](sort.jpg)  
+**Sort by** allows you to select which field of the comics will be sorted. **Descending** allows you to specify the direction of sorting. If downward is active, then the rows will be sorted from the AZ number from 0-1 and the date from the past to the future is otherwise the opposite.
 
-## Поиск и фильтрация по имени комикса и признаку прочтения
+## Search and filter by the name of the comic and the sign of reading
 
-Если необходимо найти какой-то комикс(ы) по имени необходимо ввести в поле **По имени комикса** полное название комикса или его часть. Если необходимо найти прочитанные и/или не прочитанные комиксы проставьте галочки у соответствующих пунктов **Прочитанные** и **Не прочитанные**.  
-![Панель поиска](filterflyout.jpg)  
-Список автоматически произведет поиск после изменений в вышеупомянутых полях поиска.
+If you need to find a comic by name, you must enter it in the **Name** full name of the comics or part of it. If it is necessary to find read and / or not read comics, check the corresponding items **Readed** и **Unreaded**.  
+![Search bar](filterflyout.jpg)  
+The list will automatically search after changes in the above search fields.
 
-## Поиск и фильтрация по датам создания и последнего просмотра
+## Search and filter by creation and last viewing dates
 
-По датам создания и последнего просмотра также можно искать и фильтровать список. Фильтр для каждой из дат представлен в отдельной кнопке.  
-![Панель поиска](datefilter.jpg)  
-Чтобы искать по конкретной дате, необходимо выбрать одну дату в календаре. Если необходимо искать в диапазоне выберите две даты в календаре. Если необходимо выбрать несколько конкретных дат необходимо выбрать более двух дат в календаре.  
-Текущий активный режим выбора дат будет отображаться в заголовке панели с календарем.
+By creation and last viewing dates, you can also search and filter the list. The filter for each date is presented in a separate button.  
+![Search bar](datefilter.jpg)  
+To search by a specific date, you must select one date in the calendar. If you want to search in the range, select two dates in the calendar. If you want to select several specific dates, you must select more than two dates in the calendar.  
+The current active date selection mode will be displayed in the header of the calendar panel.
