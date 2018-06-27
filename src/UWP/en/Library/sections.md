@@ -1,25 +1,25 @@
-## Разделы библиотеки
+## Sections of the library
 
-Библиотека разделена на разделы, для того чтобы было удобней находить комиксы в библиотеке. Всего пять разделов - Все комиксы, Читаемые, Новые, Не прочитанные, Прочитанные. Для того чтобы переключаться между разделами, необходимо использовать главное меню программы.  
-![Главное меню](mainmenu.jpg)  
-Главное меню программы отображается слева и в зависимости от размера окна программы может отображаться всегда, в виде набора значков или в скрытом виде. Если главного меню нет Вы можете его открыть, выполнив смахивание с левой стороны экрана.
+The library is divided into sections, so that it would be more convenient to find comics in the library. Total five sections - All comics, Read, New, Unread, Read. In order to switch between sections, you need to use the main menu of the program.  
+![Main menu](mainmenu.jpg)  
+The main menu of the program is displayed on the left and, depending on the size of the program window, can always be displayed in the form of a set of icons or in a hidden form. If there is no main menu, you can open it by clicking on the left side of the screen.  
 
-## Все комиксы
+## All comics
 
-В данном разделе расположены все комиксы, которые есть в библиотеке.
+This section contains all the comics that are in the library.
 
-## Читаемые
+## Reading
 
-В этом разделе расположены комиксы, которые Вы открыли для чтения, но не прочитали до конца. Данная выборка удобна, если Вы много читаете "держать руку на пульсе" того, что необходимо дочитать.
+In this section there are comics that you opened for reading, but did not read until the end. This sample is convenient if you read a lot of "keep your finger on the pulse" of what you need to finish reading.  
 
-## Новые
+## New
 
-Сюда попадают все комиксы которые были добавлены в течении недавнего времени и еще не были не разу открыты. Эта выборка позволяет понять какие комиксы стоить положить в список чтения если вдруг Вы забыли это сделать после добавления.
+This includes all the comics that have been added in recent times and have not yet been open. This sample allows you to understand what comics cost to put in the reading list, if suddenly you forgot to do it after adding.
 
-## Не прочитанные
+## Not readed
 
-Данный раздел содержит все комиксы, добавленные давно, но которые ни разу не открывались. Ни один непрочитанный комикс не затеряется в библиотеке благодаря этому разделу.
+This section contains all the comics that were added long ago, but which have never been opened. No unread comic will be lost in the library due to this section.  
 
-## Прочитанные
+## Readed
 
-Этот раздел содержит все прочитанные Вами комиксы за все время.
+This section contains all the comics you read all the time.
