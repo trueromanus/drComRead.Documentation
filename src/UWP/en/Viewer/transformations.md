@@ -1,29 +1,28 @@
-## Трансформации
+## Transformations
 
-Трансформации позволяют Вам выполнять повороты и зеркальные отражения изображения. Трансформации доступны по нажатию на кнопку **Преобразования**.  
-![Кнопка Преобразования](transformationmenu.jpg)  
-После нажатия на эту кнопку откроется панель в котором Вам будут доступны все инструменты для трансформации.  
-![Кнопка Преобразования](transformations.jpg)  
+Transformations allow you to perform rotations and mirror image reflections. Transformations are available by clicking on the **Transformations** button.  
+![Convert Button](transformationmenu.jpg)  
+After clicking on this button, a panel will open in which all the tools for transformation will be available to you.  
+![Convert Button](transformations.jpg)  
 
-### Повороты изображения
+### Image Rotations
 
-Поворот изображения выполняеться выбором из выпадающего списка поля **Поворот**. Доступны пункты:
-* Не повернут - исходное положение
-* Повернут на 90°
-* Повернут на 180°
-* Повернут на 270°  
+Rotate the image by selecting from the drop-down list of the **Rotation** field. Items are available:
+* Not rotated - the starting position
+* Rotated by 90°
+* Rotated by 180°
+* Rotated by 270°
+Transformation will occur immediately after selecting one of the menu items.
 
-Трансформация произойдет сразу после выбора одного из пунктов меню.
+### Mirror reflection
 
-### Зеркальное отражение
+There are two types of mirror reflection - **Vertical reflection** and **Horizontal reflection**. You can activate and deactivate these items in any combination. Their values are added together if you activate both items. Also, they are added together with the rotations of the image.  
 
-Есть два вида зеркального отражения - **Отражение по вертикали** и **Отражение по горизонтали**. Вы можете активировать и деактивировать эти пункты в любой комбинации. Их значения суммируются если активировать оба пункта. Также они суммируются вместе с поворотами изображения.
+### Reset transformations
 
-### Сброс трансформаций
+After performing any transformations, you can reset them entirely with the **Reset** button. All the settings of the transformations return to their original position.  
 
-После выполнения любых трансформаций Вы можете сбросить их целиком с помощью кнопки **Сбросить**. Все настройки трансформаций вернуться в исходное положение.
+### Saving Transformations
 
-### Сохранение трансформаций
-
-Если Вы хотите сохранить трансформации Вам достаточно нажать на кнопку **Сохранить**. После этого когда Вы вернетесь на эту страницу в дальнейшем все трансформации будут выполнены в соответствии с Вашими настройками. Если попытаться перейти на другую страницу или комикс и имеются не сохраненные трансформации на текущей странице программа предложит Вам либо сохранить текущие трансформации либо отбросить изменения по ним.  
-![Подтверждение сохранения трансформаций](transformationwarning.jpg)
+If you want to save the transformation you just press the **Save** button. After that, when you return to this page in the future, all the transformations will be performed in accordance with your settings. If you try to go to another page or comics and there are not saved transformations on the current page, the program will offer you either to save the current transformations or discard changes to them.  
+![Confirmation of the preservation of transformations](transformationwarning.jpg)
