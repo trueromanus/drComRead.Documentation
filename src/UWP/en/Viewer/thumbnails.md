@@ -1,21 +1,21 @@
-## Список миниатюр
+## Thumbnails
 
-Страница просмотр комикса позволяет просматривать только отдельную страницу комикса а когда необходимо пробежаться по всем комиксам быстрым взглядом можно воспользоваться списком миниатюр. В нем все страницы комикса расположены в виде горизонтального списка слева направо. Он автоматическа прокручивается до текущей открытой страницы и помечает её выделением. Чтобы открыть список миниатюр достаточно нажать на кнопку **Просмотреть все страницы комикса в виде списка миниатюр**.  
-![Кнопка перехода в список миниатюр](thumbnailsbutton.jpg)
+Page view of the comic allows you to view only a single comic page and when you need to go over all comics with a quick glance you can use the list of thumbnails. In it, all pages of the comics are arranged in the form of a horizontal list from left to right. It automatically scrolls to the current open page and marks it with a selection. To open the list of thumbnails, just click on the button **Thumbnails**.
+![Button to enter the thumbnail list](thumbnailsbutton.jpg)
 
-### Изменение текущей страницы комикса
+### Change the current comic page
 
-В списка миниатюр также можно изменить текущую просматриваемую страницу комикса. Для этого необходимо прокрутить область просмотра к интересующей странице и кликнуть левой кнопкой мыши, использовать стрелки с клавиатуры, выполнить тап для устройств с touch вводом или нажать на кнопку A на геймпаде.
+In the list of thumbnails, you can also change the current page of the comic. To do this, you need to scroll the viewport to the page of interest and click the left mouse button, use the arrows from the keyboard, tap for devices with touch input or press the A button on the gamepad.  
 
-### Настройки списка миниатюр
+### Thumbnail list settings
 
-Для того чтобы войти в настройки списка миниатюр необходимо во время открытого списка миниатюр нажать на кнопку **Настройка списка миниатюр** на панели действий.  
-![Кнопка настроек списка миниатюр](settings.jpg)  
-Вы можете настроить то необходимо ли отображать номера по порядку следования рядом с миниатюрой страницы комикса. Номер страницы отображается в виде числа в правом верхнем углу миниатюры страницы.  
-![Настройки списка миниатюр](thumbnailssettings.jpg)  
-Изменение этой настройки будут использоваться для всех комиксов.
+In order to enter the settings of the thumbnail list, during the open list of thumbnails, click the button ** Configure the list of thumbnails ** in the action bar.  
+![Thumbnail list settings button](settings.jpg)  
+You can configure whether it is necessary to display the numbers in the order next to the miniature page of the comics. The page number is displayed as a number in the upper right corner of the page thumbnail.  
+![Thumbnail list settings](thumbnailssettings.jpg)  
+Change this setting will be used for all comics.
 
-### Покинуть список миниатюр
+### Leave thumbnail list
 
-Чтобы выйти из списка миниатюр необходимо нажать на кнопку **Выйти из списка миниатюр** на панели действий.  
-![Настройки списка миниатюр](thumbnailsexit.jpg)  
+To exit the list of thumbnails, click on the button **Exit** in the action bar.
+![Thumbnail list settings](thumbnailsexit.jpg)  
