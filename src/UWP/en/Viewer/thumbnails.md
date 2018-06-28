@@ -17,5 +17,5 @@ Change this setting will be used for all comics.
 
 ### Leave thumbnail list
 
-To exit the list of thumbnails, click on the button **Exit** in the action bar.
+To exit the list of thumbnails, click on the button **Exit** in the action bar.  
 ![Thumbnail list settings](thumbnailsexit.jpg)  
