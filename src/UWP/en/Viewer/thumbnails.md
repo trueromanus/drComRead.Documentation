@@ -1,6 +1,6 @@
 ## Thumbnails
 
-Page view of the comic allows you to view only a single comic page and when you need to go over all comics with a quick glance you can use the list of thumbnails. In it, all pages of the comics are arranged in the form of a horizontal list from left to right. It automatically scrolls to the current open page and marks it with a selection. To open the list of thumbnails, just click on the button **Thumbnails**.
+Page view of the comic allows you to view only a single comic page and when you need to go over all comics with a quick glance you can use the list of thumbnails. In it, all pages of the comics are arranged in the form of a horizontal list from left to right. It automatically scrolls to the current open page and marks it with a selection. To open the list of thumbnails, just click on the button **Thumbnails**.  
 ![Button to enter the thumbnail list](thumbnailsbutton.jpg)
 
 ### Change the current comic page
