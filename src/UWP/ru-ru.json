@@ -700,6 +700,14 @@
         {
           "id": "NextComics",
           "text": "Следующий комикс"
+        },
+        {
+          "id": "PageInfoPage",
+          "text": "Страница"
+        },
+        {
+          "id": "PageInfoSeparator",
+          "text": "из"
         }
       ]
     },
