@@ -700,6 +700,14 @@
         {
           "id": "NextComics",
           "text": "Next comic book"
+        },
+        {
+          "id": "PageInfoPage",
+          "text": "Page"
+        },
+        {
+          "id": "PageInfoSeparator",
+          "text": "from"
         }
       ]
     },
