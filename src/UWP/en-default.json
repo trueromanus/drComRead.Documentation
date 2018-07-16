@@ -461,6 +461,10 @@
       "group": "Import",
       "texts": [
         {
+          "id": "WarningMessage",
+          "text": "If you have archives that are not imported into the library, please share this archive with us to improve the import of this program."
+        },
+        {
           "id": "AddComicsFromFiles",
           "text": "Add comics from files"
         },
