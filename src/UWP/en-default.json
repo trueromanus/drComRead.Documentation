@@ -461,6 +461,14 @@
       "group": "Import",
       "texts": [
         {
+          "id": "SendEmail",
+          "text": "Send email"
+        },
+        {
+          "id": "AttachArchive",
+          "text": "Attach archive or share link to cloud service (GDrive, Dropbox, OneDrive etc)"
+        },        
+        {
           "id": "WarningMessage",
           "text": "If you have archives that are not imported into the library, please share this archive with us to improve the import of this program."
         },
