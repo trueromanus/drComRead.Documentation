@@ -47,6 +47,43 @@
       ]
     },
     {
+      "group": "Sharing",
+      "texts": [
+        {
+          "id": "Sharing",
+          "text": "Sharing"
+        },
+        {
+          "id": "StartedShared",
+          "text": "Started"
+        },
+        {
+          "id": "StoppedShared",
+          "text": "Stopped"
+        },
+        {
+          "id": "Hosts",
+          "text": "Hosts"
+        },
+        {
+          "id": "SelectHost",
+          "text": "Select host"
+        },
+        {
+          "id": "Download",
+          "text": "Download"
+        },
+        {
+          "id": "HostName",
+          "text": "Host name"
+        },
+        {
+          "id": "Settings",
+          "text": "Sharing settings"
+        }
+      ]
+    },
+    {
       "group": "SplitView",
       "texts": [
         {
