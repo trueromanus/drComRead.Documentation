@@ -47,6 +47,43 @@
       ]
     },
     {
+      "group": "Sharing",
+      "texts": [
+        {
+          "id": "Sharing",
+          "text": "Поделиться комиксами"
+        },
+        {
+          "id": "StartedShared",
+          "text": "Запущено"
+        },
+        {
+          "id": "StoppedShared",
+          "text": "Остановлено"
+        },
+        {
+          "id": "Hosts",
+          "text": "Узлы"
+        },
+        {
+          "id": "SelectHost",
+          "text": "Выберите узел"
+        },
+        {
+          "id": "Download",
+          "text": "Скачать"
+        },
+        {
+          "id": "HostName",
+          "text": "Имя узла"
+        },
+        {
+          "id": "Settings",
+          "text": "Настройки"
+        }
+      ]
+    },    
+    {
       "group": "SplitView",
       "texts": [
         {
