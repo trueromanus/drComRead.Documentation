@@ -2,6 +2,7 @@
 
 ### Full collection file
 
+```
 {
   "collector": "Alf" <-- Name of collector or collector team
   "team": [
@@ -18,4 +19,4 @@
     }
   ]
 }
-
+```
