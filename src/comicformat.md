@@ -15,7 +15,10 @@
   items: [ <-- items is either sequence or group comic books
     {
       "url": "http://test.com", <-- path to collection
+      "title": "Pyromaniac", <-- Title of comic book
+      "coverUrl": "http://test.com/cover12.jpg", <-- Cover for comic book
       "timestamp": 23435345, <-- item timestamp
+      "id": "GUID here or something unique", <-- comic book identifier within collection
     }
   ]
 }
