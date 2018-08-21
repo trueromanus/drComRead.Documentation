@@ -19,6 +19,24 @@
       "coverUrl": "http://test.com/cover12.jpg", <-- Cover for comic book
       "timestamp": 23435345, <-- item timestamp
       "id": "GUID here or something unique", <-- comic book identifier within collection
+      "countPages": 100 <-- optional
+    }
+  ]
+}
+```
+
+### Collection Item
+
+```
+{
+  "title": "Full title of comic book",
+  "pages": [
+    {
+      "order": 1,
+      "url": "http://test.com/page1",
+      "isCover": false,
+      "rotate": "", <-- optional (none, angle90, angle180, angle270)
+      "mirror": "", <-- optional (none, vertical, horizaontal, both)
     }
   ]
 }
