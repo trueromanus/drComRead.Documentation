@@ -18,6 +18,8 @@
       "title": "Pyromaniac", <-- Title of comic book
       "coverUrl": "http://test.com/cover12.jpg", <-- Cover for comic book
       "timestamp": 23435345, <-- item timestamp
+      "genres": ["romantic", "detective"], <-- ganres list,
+      "tags": ["meat", "cyperpunk"], <-- user tags
       "id": "GUID here or something unique", <-- comic book identifier within collection
       "countPages": 100 <-- optional
     }
