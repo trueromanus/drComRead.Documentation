@@ -22,6 +22,7 @@
       "timestamp": 23435345, <-- item timestamp
       "genres": ["romantic", "detective"], <-- ganres list,
       "tags": ["meat", "cyperpunk"], <-- user tags
+      "finished": true, <-- optional Finished translate or orgignal series
       "id": "GUID here or something unique", <-- comic book identifier within collection
       "countPages": 100 <-- optional
     }
