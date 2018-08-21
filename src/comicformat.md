@@ -35,8 +35,14 @@
 ```
 {
   "title": "Full title of comic book",
-  "pages": [
+  "authors": [
     {
+      "name": "Alex matrosov", <-- name of author
+      "post": "colorist" <-- post of author
+    }
+  ],
+  "pages": [
+    {      
       "order": 1,
       "url": "http://test.com/page1",
       "isCover": false,
