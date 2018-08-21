@@ -16,6 +16,7 @@
     {
       "url": "http://test.com", <-- path to collection
       "title": "Pyromaniac", <-- Title of comic book
+      "originalTitle": "", <-- Title on original language
       "coverUrl": "http://test.com/cover12.jpg", <-- Cover for comic book
       "timestamp": 23435345, <-- item timestamp
       "genres": ["romantic", "detective"], <-- ganres list,
