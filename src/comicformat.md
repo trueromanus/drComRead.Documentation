@@ -12,7 +12,8 @@
     }
   ],
   settings: {
-    serverFiltering: true
+    serverFiltering: true,
+    serverPagination: true
   },
   timestamp: 1234134234, <-- full document last timestamp
   items: [ <-- items is either sequence or group comic books
