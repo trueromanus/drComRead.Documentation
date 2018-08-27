@@ -11,6 +11,9 @@
       "name": "Braniak" <-- Name or nickname of person
     }
   ],
+  settings: {
+    serverFiltering: true
+  },
   timestamp: 1234134234, <-- full document last timestamp
   items: [ <-- items is either sequence or group comic books
     {
