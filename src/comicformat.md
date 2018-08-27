@@ -12,8 +12,8 @@
     }
   ],
   settings: {
-    serverFiltering: true,
-    serverPagination: true
+    serverFiltering: true, // <-- availability filtering by title and originalTitle
+    serverPagination: true // <-- availability paging by fields page and count
   },
   timestamp: 1234134234, <-- full document last timestamp
   items: [ <-- items is either sequence or group comic books
