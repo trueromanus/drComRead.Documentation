@@ -124,6 +124,26 @@
       "group": "Library",
       "texts": [
         {
+          "id": "DownloadAsArchive",
+          "text": "Как архив"
+        },
+        {
+          "id": "DownloadAsPDF",
+          "text": "Как PDF"
+        },
+        {
+          "id": "DownloadButtonTooltip",
+          "text": "Скачать архив или PDF по прямой ссылке из интернета"
+        },
+        {
+          "id": "DownloadUrl",
+          "text": "Url для скачивания"
+        },
+        {
+          "id": "DownloadUrlPlaceholder",
+          "text": "Url на файл из интернета для загрузки"
+        },        
+        {
           "id": "RenameComics",
           "text":"Переименовать комиксы",
         },
