@@ -124,6 +124,26 @@
       "group": "Library",
       "texts": [
         {
+          "id": "DownloadAsArchive",
+          "text": "As archive"
+        },
+        {
+          "id": "DownloadAsPDF",
+          "text": "As PDF"
+        },
+        {
+          "id": "DownloadButtonTooltip",
+          "text": "Download archives or PDF by direct link from web"
+        },
+        {
+          "id": "DownloadUrl",
+          "text": "Url for download"
+        },
+        {
+          "id": "DownloadUrlPlaceholder",
+          "text": "Url on file from web for download"
+        },
+        {
           "id": "RenameComics",
           "text":"Rename comic books",
         },
