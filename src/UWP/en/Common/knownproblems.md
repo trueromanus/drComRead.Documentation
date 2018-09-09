@@ -18,7 +18,7 @@ The archive formats that the application supports are CBR (actually a RAR archiv
 ### If the application crashes and subsequently does it again when you open it
 
 I'm trying hard to prevent this from happening, but it can still be very annoying if the application can not be launched. In order to restore functionality to the application, you need to perform a few simple steps.
-First you need to go to the diagnostic page of the application, just go to [this link] (drcomread://diagnosticspage/).  
+First you need to go to the diagnostic page of the application, just go to [this link](drcomread://diagnosticspage/).  
 This link will only open if you have installed the drComRead application otherwise the browser will most likely ignore it.  
 
 The most effective way is to reset the transition history. The application records for convenience the last 30 transitions between pages and has the ability to return to them.  
