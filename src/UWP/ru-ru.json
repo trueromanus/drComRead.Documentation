@@ -124,6 +124,10 @@
       "group": "Library",
       "texts": [
         {
+          "id": "DownloadFromInternet",
+          "text": "Download from internet"
+        },
+        {
           "id": "DownloadAsArchive",
           "text": "Как архив"
         },
