@@ -1,7 +1,3 @@
-## Known issues and solutions
-
-There are currently no data to display in this section.
-
 ### Support
 
 If you have problems, you can contact the application support. To do this, just write an e-mail to [survey@drcomread.com](mailto:survey@drcomread.com).
