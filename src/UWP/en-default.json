@@ -527,11 +527,11 @@
         },
         {
           "id": "AttachArchive",
-          "text": "Attach archive or share link to cloud service (GDrive, Dropbox, OneDrive etc)"
+          "text": "Read more"
         },        
         {
           "id": "WarningMessage",
-          "text": "If you have archives that are not imported into the library, please share this archive with us to improve the import of this program."
+          "text": "If you have archives that are not imported into the library, please check page Known Issue."
         },
         {
           "id": "AddComicsFromFiles",
