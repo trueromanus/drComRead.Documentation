@@ -911,6 +911,10 @@
           "text": "Two page mode"
         },
         {
+          "id": "MangaMode",
+          "text": "Манга режим"
+        },        
+        {
           "id": "TwoPageModeTooltip",
           "text": "Will display two pages at a time"
         },
