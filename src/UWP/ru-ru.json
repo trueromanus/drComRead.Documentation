@@ -124,6 +124,10 @@
       "group": "Library",
       "texts": [
         {
+          "id": "AddComicsToGroup",
+          "text": "Добавить комиксы в группу"
+        },        
+        {
           "id": "DownloadFromInternet",
           "text": "Скачать из интернета"
         },
