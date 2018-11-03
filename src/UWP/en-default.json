@@ -124,6 +124,14 @@
       "group": "Library",
       "texts": [
         {
+          "id": "CreateNewGroup",
+          "text": "Create a new group"
+        },
+        {
+          "id": "SelectFromExists",
+          "text": "Choose from"
+        },
+        {
           "id": "AddComicsToGroup",
           "text": "Add comics to group"
         },
