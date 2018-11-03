@@ -124,6 +124,14 @@
       "group": "Library",
       "texts": [
         {
+          "id": "CreateNewGroup",
+          "text": "Создать новую группу"
+        },
+        {
+          "id": "SelectFromExists",
+          "text": "Выбрать из имеющихся"
+        },        
+        {
           "id": "AddComicsToGroup",
           "text": "Добавить комиксы в группу"
         },        
