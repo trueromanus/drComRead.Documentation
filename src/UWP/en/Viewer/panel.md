@@ -1,6 +1,6 @@
-## Panel
+## Control Panel
 
-Control panel on the viewer the page contains all functionality related this page:  
+Control panel on the viewer the page contains all functionality related to this page:  
 * Image transformations (rotate and mirroring image).
 * Bookmarks.
 * Page thumbnails.
