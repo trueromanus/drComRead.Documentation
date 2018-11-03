@@ -3,6 +3,10 @@
   "name" : "viewer",
   "pages" : [
     {
+      "file": "panel",
+      "title": "Контрольная панель"
+    },    
+    {
       "file" : "navigation",
       "title" : "Навигация"
     },
