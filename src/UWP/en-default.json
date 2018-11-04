@@ -43,6 +43,10 @@
         {
           "id": "Next",
           "text":"Next",
+        },
+        {
+          "id": "Cancel",
+          "text":"Cancel"
         }        
       ]
     },
