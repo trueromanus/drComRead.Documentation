@@ -128,6 +128,34 @@
       "group": "Library",
       "texts": [
         {
+          "id": "SetCoverToGroup",
+          "text": "Set cover for group"
+        },        
+        {
+          "id": "ClearGroup",
+          "text": "Clear group"
+        },        
+        {
+          "id": "DeleteGroup",
+          "text": "Delete group"
+        },        
+        {
+          "id": "SortGroup",
+          "text": "Set sorting for group list"
+        },        
+        {
+          "id": "NameGroup",
+          "text": "Group name"
+        },        
+        {
+          "id": "CountComicsInGroup",
+          "text": "Number of comics in the group"
+        },        
+        {
+          "id": "FilterGroup",
+          "text": "Set filtering for group list"
+        },
+        {
           "id": "CreateNewGroup",
           "text": "Create a new group"
         },
