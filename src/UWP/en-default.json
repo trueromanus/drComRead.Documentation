@@ -91,6 +91,10 @@
       "group": "SplitView",
       "texts": [
         {
+          "id": "Groups",
+          "text":"Groups",
+        },
+        {
           "id": "ProgramVersion",
           "text":"version {0}",
         },
